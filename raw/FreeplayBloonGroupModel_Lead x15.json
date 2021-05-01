@@ -1,0 +1,86 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "Lead",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Lead",
+            "time": 34.2599983215332,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Lead",
+            "time": 68.5199966430664,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Lead",
+            "time": 102.77999877929688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Lead",
+            "time": 137.0399932861328,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Lead",
+            "time": 171.29998779296876,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Lead",
+            "time": 205.55999755859376,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Lead",
+            "time": 239.8199920654297,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Lead",
+            "time": 274.0799865722656,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Lead",
+            "time": 308.3399963378906,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Lead",
+            "time": 342.5999755859375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Lead",
+            "time": 376.8599853515625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Lead",
+            "time": 411.1199951171875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Lead",
+            "time": 445.3799743652344,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Lead",
+            "time": 479.6399841308594,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 20,
+            "upperBounds": 35
+        }
+    ]
+}

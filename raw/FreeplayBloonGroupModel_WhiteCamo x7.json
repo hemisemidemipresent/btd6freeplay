@@ -1,0 +1,46 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "WhiteCamo",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteCamo",
+            "time": 15.916666984558106,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteCamo",
+            "time": 31.83333396911621,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteCamo",
+            "time": 47.75,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteCamo",
+            "time": 63.66666793823242,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteCamo",
+            "time": 79.58333587646485,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteCamo",
+            "time": 95.5,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 33,
+            "upperBounds": 45
+        }
+    ]
+}

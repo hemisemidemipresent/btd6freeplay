@@ -1,0 +1,121 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "MoabFortified",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 2.857142686843872,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 5.714285373687744,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 8.571428298950196,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 11.428570747375489,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 14.285713195800782,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 17.14285659790039,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 19.999998092651368,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 22.857141494750978,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 25.714284896850587,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 28.571426391601564,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 31.428569793701173,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 34.28571319580078,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 37.14285659790039,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 39.999996185302737,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 42.857139587402347,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 45.71428298950195,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 48.57142639160156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 51.42856979370117,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 54.285709381103519,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 57.142852783203128,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 59.999996185302737,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 141,
+            "upperBounds": 150
+        }
+    ]
+}

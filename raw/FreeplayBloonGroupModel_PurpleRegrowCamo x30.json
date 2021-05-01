@@ -1,0 +1,161 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 31.034481048583986,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 62.06896209716797,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 93.10343933105469,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 124.13792419433594,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 155.1724090576172,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 186.20687866210938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 217.24136352539063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 248.27584838867188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 279.3103332519531,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 310.3448181152344,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 341.3793029785156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 372.41375732421877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 403.4482421875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 434.48272705078127,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 465.5172119140625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 496.55169677734377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 527.586181640625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 558.6206665039063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 589.6551513671875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 620.6896362304688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 651.72412109375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 682.7586059570313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 713.7930908203125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 744.8275146484375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 775.8619995117188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 806.896484375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 837.9309692382813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 868.9654541015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PurpleRegrowCamo",
+            "time": 899.9999389648438,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 30,
+            "upperBounds": 45
+        }
+    ]
+}

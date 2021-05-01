@@ -1,0 +1,611 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 19.159664154052736,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 38.31932830810547,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 57.4789924621582,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 76.63865661621094,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 95.79832458496094,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 114.9579849243164,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 134.11764526367188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 153.27731323242188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 172.43698120117188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 191.59664916992188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 210.7563018798828,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 229.9159698486328,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 249.0756378173828,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 268.23529052734377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 287.39495849609377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 306.55462646484377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 325.71429443359377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 344.87396240234377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 364.03363037109377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 383.19329833984377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 402.3529357910156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 421.5126037597656,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 440.6722717285156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 459.8319396972656,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 478.9916076660156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 498.1512756347656,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 517.3109130859375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 536.4705810546875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 555.6302490234375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 574.7899169921875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 593.9495849609375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 613.1092529296875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 632.2689208984375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 651.4285888671875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 670.5882568359375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 689.7479248046875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 708.9075927734375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 728.0672607421875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 747.2269287109375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 766.3865966796875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 785.5462036132813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 804.7058715820313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 823.8655395507813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 843.0252075195313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 862.1848754882813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 881.3445434570313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 900.5042114257813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 919.6638793945313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 938.8235473632813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 957.9832153320313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 977.1428833007813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 996.3025512695313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1015.4622192382813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1034.621826171875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1053.781494140625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1072.941162109375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1092.100830078125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1111.260498046875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1130.420166015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1149.579833984375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1168.739501953125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1187.899169921875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1207.058837890625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1226.218505859375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1245.378173828125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1264.537841796875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1283.697509765625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1302.857177734375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1322.016845703125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1341.176513671875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1360.336181640625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1379.495849609375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1398.655517578125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1417.815185546875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1436.974853515625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1456.134521484375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1475.294189453125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1494.453857421875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1513.613525390625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1532.773193359375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1551.9327392578125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1571.0924072265625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1590.2520751953125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1609.4117431640625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1628.5714111328125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1647.7310791015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1666.8907470703125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1686.0504150390625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1705.2100830078125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1724.3697509765625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1743.5294189453125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1762.6890869140625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1781.8487548828125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1801.0084228515625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1820.1680908203125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1839.3277587890625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1858.4874267578125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1877.6470947265625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1896.8067626953125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1915.9664306640625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1935.1260986328125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1954.2857666015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1973.4454345703125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 1992.6051025390625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 2011.7647705078125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 2030.9244384765625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 2050.083984375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 2069.24365234375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 2088.4033203125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 2107.56298828125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 2126.72265625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 2145.88232421875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 2165.0419921875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 2184.20166015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 2203.361328125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 2222.52099609375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 2241.6806640625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 2260.84033203125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "WhiteRegrowCamo",
+            "time": 2280.0,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 30,
+            "upperBounds": 45
+        }
+    ]
+}

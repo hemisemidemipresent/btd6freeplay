@@ -1,0 +1,31 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 39.999996185302737,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 79.99999237060547,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 119.99998474121094,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 131,
+            "upperBounds": 140
+        }
+    ]
+}

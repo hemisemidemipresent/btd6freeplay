@@ -1,0 +1,535 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 2.912621021270752,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 5.825242042541504,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 8.737863540649414,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 11.650484085083008,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 14.563104629516602,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 17.475727081298829,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 20.388347625732423,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 23.300968170166017,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 26.21358871459961,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 29.126209259033204,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 32.0388298034668,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 34.951454162597659,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 37.86407470703125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 40.776695251464847,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 43.68931579589844,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 46.60193634033203,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 49.514556884765628,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 52.42717742919922,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 55.33979797363281,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 58.252418518066409,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 61.165042877197269,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 64.0776596069336,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 66.99028015136719,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 69.90290832519531,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 72.8155288696289,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 75.7281494140625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 78.6407699584961,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 81.55339050292969,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 84.46601104736328,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 87.37863159179688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 90.29125213623047,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 93.20387268066406,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 96.11649322509766,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 99.02911376953125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 101.94173431396485,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 104.85435485839844,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 107.76697540283203,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 110.67959594726563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 113.59221649169922,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 116.50483703613281,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 119.41746520996094,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 122.33008575439453,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 125.24270629882813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 128.1553192138672,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 131.0679473876953,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 133.98056030273438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 136.8931884765625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 139.80581665039063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 142.7184295654297,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 145.6310577392578,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 148.54367065429688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 151.456298828125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 154.36891174316407,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 157.2815399169922,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 160.19415283203126,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 163.10678100585938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 166.01939392089845,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 168.93202209472657,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 171.84463500976563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 174.75726318359376,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 177.6698760986328,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 180.58250427246095,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 183.4951171875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 186.40774536132813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 189.32037353515626,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 192.2329864501953,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 195.14561462402345,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 198.0582275390625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 200.97085571289063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 203.8834686279297,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 206.7960968017578,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 209.70870971679688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 212.621337890625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 215.53395080566407,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 218.4465789794922,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 221.35919189453126,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 224.27182006835938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 227.18443298339845,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 230.09706115722657,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 233.00967407226563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 235.92230224609376,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 238.83493041992188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 241.74754333496095,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 244.66017150878907,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 247.57278442382813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 250.48541259765626,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 253.3980255126953,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 256.3106384277344,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 259.2232666015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 262.1358947753906,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 265.04852294921877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 267.96112060546877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 270.8737487792969,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 273.786376953125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 276.6990051269531,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 279.61163330078127,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 282.52423095703127,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 285.4368591308594,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 288.3494873046875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 291.2621154785156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 294.1747131347656,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 297.08734130859377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 299.9999694824219,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 111,
+            "upperBounds": 120
+        },
+        {
+            "lowerBounds": 163,
+            "upperBounds": 163
+        }
+    ]
+}

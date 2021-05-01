@@ -1,0 +1,41 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "Zebra",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 217.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 434.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 651.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 868.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1085.0,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 24,
+            "upperBounds": 30
+        }
+    ]
+}

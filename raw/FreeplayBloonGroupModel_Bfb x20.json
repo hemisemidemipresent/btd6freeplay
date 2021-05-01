@@ -1,0 +1,111 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "Bfb",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 37.89473342895508,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 75.78946685791016,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 113.6842041015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 151.5789337158203,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 189.47366333007813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 227.368408203125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 265.26312255859377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 303.1578674316406,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 341.0526123046875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 378.94732666015627,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 416.8420715332031,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 454.73681640625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 492.63153076171877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 530.5262451171875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 568.4210205078125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 606.3157348632813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 644.21044921875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 682.105224609375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 719.9999389648438,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 86,
+            "upperBounds": 99
+        }
+    ]
+}

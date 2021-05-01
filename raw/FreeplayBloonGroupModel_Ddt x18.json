@@ -1,0 +1,101 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "DdtCamo",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 12.352940559387207,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 24.705881118774415,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 37.05882263183594,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 49.41176223754883,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 61.76470184326172,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 74.11764526367188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 86.4705810546875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 98.82352447509766,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 111.17646789550781,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 123.52940368652344,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 135.88233947753907,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 148.23529052734376,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 160.58822631835938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 172.941162109375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 185.2941131591797,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 197.6470489501953,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 209.99998474121095,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 151,
+            "upperBounds": 160
+        }
+    ]
+}

@@ -1,0 +1,311 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "Zebra",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 27.822031021118165,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 55.64406204223633,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 83.46609497070313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 111.28812408447266,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 139.1101531982422,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 166.93218994140626,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 194.75421142578126,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 222.5762481689453,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 250.39828491210938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 278.2203063964844,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 306.0423278808594,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 333.8643798828125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 361.6864013671875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 389.5084228515625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 417.3304748535156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 445.1524963378906,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 472.9745178222656,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 500.79656982421877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 528.6185913085938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 556.4406127929688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 584.2626342773438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 612.0846557617188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 639.90673828125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 667.728759765625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 695.55078125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 723.372802734375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 751.19482421875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 779.016845703125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 806.8389282226563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 834.6609497070313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 862.4829711914063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 890.3049926757813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 918.1270141601563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 945.9490356445313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 973.7710571289063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1001.5931396484375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1029.4151611328125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1057.2371826171875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1085.0592041015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1112.8812255859375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1140.7032470703125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1168.5252685546875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1196.3472900390625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1224.1693115234375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1251.991455078125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1279.8134765625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1307.635498046875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1335.45751953125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1363.279541015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1391.1015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1418.923583984375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1446.74560546875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1474.567626953125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1502.3896484375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1530.211669921875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1558.03369140625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1585.855712890625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1613.6778564453125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zebra",
+            "time": 1641.4998779296875,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 24,
+            "upperBounds": 38
+        }
+    ]
+}

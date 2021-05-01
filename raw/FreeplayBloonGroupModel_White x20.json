@@ -1,0 +1,111 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "White",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 34.736839294433597,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 69.47367858886719,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 104.21051788330078,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 138.94735717773438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 173.6842041015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 208.42103576660157,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 243.15786743164063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 277.89471435546877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 312.6315612792969,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 347.368408203125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 382.105224609375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 416.8420715332031,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 451.57891845703127,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 486.31573486328127,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 521.0526123046875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 555.7894287109375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 590.5262451171875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 625.2631225585938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 659.9999389648438,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 16,
+            "upperBounds": 32
+        }
+    ]
+}

@@ -1,0 +1,261 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "CeramicCamo",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 30.612241744995118,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 61.224483489990237,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 91.83672332763672,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 122.44896697998047,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 153.0612030029297,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 183.67344665527345,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 214.2856903076172,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 244.89793395996095,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 275.5101623535156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 306.1224060058594,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 336.7346496582031,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 367.3468933105469,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 397.9591369628906,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 428.5713806152344,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 459.1836242675781,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 489.7958679199219,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 520.4080810546875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 551.0203247070313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 581.632568359375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 612.2448120117188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 642.8570556640625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 673.4692993164063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 704.08154296875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 734.6937866210938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 765.3060302734375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 795.9182739257813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 826.530517578125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 857.1427612304688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 887.7550048828125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 918.3672485351563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 948.9794921875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 979.5917358398438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 1010.2039794921875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 1040.816162109375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 1071.428466796875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 1102.0406494140625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 1132.6529541015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 1163.26513671875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 1193.87744140625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 1224.4896240234375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 1255.1019287109375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 1285.714111328125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 1316.326416015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 1346.9385986328125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 1377.5509033203125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 1408.1630859375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 1438.775390625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 1469.3875732421875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicCamo",
+            "time": 1499.9998779296875,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 33,
+            "upperBounds": 55
+        }
+    ]
+}

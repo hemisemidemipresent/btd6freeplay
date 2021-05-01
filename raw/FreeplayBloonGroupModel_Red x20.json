@@ -1,0 +1,111 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "Red",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Red",
+            "time": 78.9473648071289,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Red",
+            "time": 157.8947296142578,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Red",
+            "time": 236.84210205078126,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Red",
+            "time": 315.7894592285156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Red",
+            "time": 394.73681640625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Red",
+            "time": 473.6842041015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Red",
+            "time": 552.6315307617188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Red",
+            "time": 631.5789184570313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Red",
+            "time": 710.5263061523438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Red",
+            "time": 789.4736328125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Red",
+            "time": 868.4210205078125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Red",
+            "time": 947.368408203125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Red",
+            "time": 1026.3157958984375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Red",
+            "time": 1105.2630615234375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Red",
+            "time": 1184.21044921875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Red",
+            "time": 1263.1578369140625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Red",
+            "time": 1342.105224609375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Red",
+            "time": 1421.0526123046875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Red",
+            "time": 1499.9998779296875,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 1,
+            "upperBounds": 10
+        }
+    ]
+}

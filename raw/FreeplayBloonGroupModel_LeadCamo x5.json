@@ -1,0 +1,261 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "LeadCamo",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 9.123623847961426,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 18.24724769592285,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 27.370872497558595,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 36.4944953918457,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 45.61811828613281,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 54.74174499511719,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 63.8653678894043,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 72.9889907836914,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 82.11261749267578,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 91.23623657226563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 100.35986328125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 109.48348999023438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 118.60710906982422,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 127.7307357788086,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 136.85435485839845,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 145.9779815673828,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 155.1016082763672,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 164.22523498535157,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 173.34884643554688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 182.47247314453126,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 191.59609985351563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 200.7197265625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 209.84335327148438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 218.96697998046876,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 228.09059143066407,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 237.21421813964845,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 246.3378448486328,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 255.4614715576172,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 264.5850830078125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 273.7087097167969,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 282.83233642578127,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 291.9559631347656,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 301.07958984375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 310.2032165527344,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 319.32684326171877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 328.4504699707031,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 337.5740966796875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 346.69769287109377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 355.8213195800781,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 364.9449462890625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 374.0685729980469,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 383.19219970703127,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 392.3158264160156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 401.439453125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 410.5630798339844,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 419.68670654296877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 428.8103332519531,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 437.9339599609375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadCamo",
+            "time": 447.05755615234377,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 35,
+            "upperBounds": 45
+        }
+    ]
+}

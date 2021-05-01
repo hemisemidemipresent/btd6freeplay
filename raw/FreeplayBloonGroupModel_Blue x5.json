@@ -1,0 +1,36 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "Blue",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 16.750003814697267,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 33.50000762939453,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 50.2500114440918,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 67.00001525878906,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 2,
+            "upperBounds": 6
+        }
+    ]
+}

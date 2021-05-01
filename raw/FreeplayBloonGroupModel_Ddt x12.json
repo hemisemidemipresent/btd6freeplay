@@ -1,0 +1,75 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "DdtCamo",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 2.7272725105285646,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 5.454545021057129,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 8.181818008422852,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 10.909090042114258,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 13.636362075805664,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 16.363636016845704,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 19.09090805053711,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 21.818180084228517,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 24.545452117919923,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 27.272724151611329,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 29.999998092651368,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 201,
+            "upperBounds": 262
+        },
+        {
+            "lowerBounds": 264,
+            "upperBounds": 9999
+        }
+    ]
+}

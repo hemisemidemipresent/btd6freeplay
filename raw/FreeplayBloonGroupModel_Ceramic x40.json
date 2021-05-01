@@ -1,0 +1,211 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "Ceramic",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 0.3076923191547394,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 0.6153846383094788,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 0.9230769872665405,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 1.2307692766189576,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 1.5384615659713746,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 1.846153974533081,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 2.153846263885498,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 2.461538553237915,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 2.769230842590332,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 3.076923131942749,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 3.384615421295166,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 3.692307949066162,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 4.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 4.307692527770996,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 4.615384578704834,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 4.92307710647583,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 5.230769634246826,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 5.538461685180664,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 5.84615421295166,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 6.153846263885498,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 6.461538791656494,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 6.769230842590332,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 7.076923370361328,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 7.384615898132324,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 7.692307949066162,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 8.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 8.307692527770996,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 8.615385055541993,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 8.923077583312989,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 9.230769157409668,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 9.538461685180664,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 9.84615421295166,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 10.153846740722657,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 10.461539268493653,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 10.769230842590332,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 11.076923370361329,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 11.384615898132325,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 11.69230842590332,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Ceramic",
+            "time": 12.0,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 33,
+            "upperBounds": 99
+        }
+    ]
+}

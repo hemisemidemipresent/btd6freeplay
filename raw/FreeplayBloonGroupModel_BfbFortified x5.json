@@ -1,0 +1,36 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "BfbFortified",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 164.99998474121095,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 329.9999694824219,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 494.99993896484377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 659.9999389648438,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 61,
+            "upperBounds": 86
+        }
+    ]
+}

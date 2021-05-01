@@ -1,0 +1,21 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "Bad",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bad",
+            "time": 299.9999694824219,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 276,
+            "upperBounds": 9999
+        }
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "RainbowCamo",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 18.461536407470704,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 36.923072814941409,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 55.38460922241211,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 73.84614562988281,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 92.30767822265625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 110.76921844482422,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 129.2307586669922,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 147.69229125976563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 166.15382385253907,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 184.6153564453125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 203.076904296875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 221.53843688964845,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 239.99996948242188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 258.4615173339844,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 276.92303466796877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 295.38458251953127,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 313.84613037109377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 332.3076477050781,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 350.7691955566406,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 369.230712890625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 387.6922607421875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 406.15380859375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 424.6153259277344,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 443.0768737792969,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 461.5384216308594,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 479.99993896484377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 498.46148681640627,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 516.9230346679688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 535.3845825195313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 553.8460693359375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 572.3076171875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 590.7691650390625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 609.230712890625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 627.6922607421875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 646.1537475585938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 664.6152954101563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 683.0768432617188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 701.5383911132813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowCamo",
+            "time": 719.9999389648438,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 35,
+            "upperBounds": 50
+        }
+    ]
+}

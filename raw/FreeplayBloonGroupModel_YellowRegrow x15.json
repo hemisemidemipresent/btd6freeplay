@@ -1,0 +1,86 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "YellowRegrow",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "YellowRegrow",
+            "time": 10.714284896850586,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "YellowRegrow",
+            "time": 21.428569793701173,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "YellowRegrow",
+            "time": 32.142852783203128,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "YellowRegrow",
+            "time": 42.857139587402347,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "YellowRegrow",
+            "time": 53.57142639160156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "YellowRegrow",
+            "time": 64.28570556640625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "YellowRegrow",
+            "time": 74.99999237060547,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "YellowRegrow",
+            "time": 85.71427917480469,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "YellowRegrow",
+            "time": 96.4285659790039,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "YellowRegrow",
+            "time": 107.14285278320313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "YellowRegrow",
+            "time": 117.85713195800781,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "YellowRegrow",
+            "time": 128.5714111328125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "YellowRegrow",
+            "time": 139.28570556640626,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "YellowRegrow",
+            "time": 149.99998474121095,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 12,
+            "upperBounds": 29
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "ZebraRegrow",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 102.77999877929688,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 24,
+            "upperBounds": 38
+        }
+    ]
+}

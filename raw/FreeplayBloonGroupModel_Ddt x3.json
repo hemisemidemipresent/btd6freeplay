@@ -1,0 +1,26 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "DdtCamo",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 149.99998474121095,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtCamo",
+            "time": 299.9999694824219,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 83,
+            "upperBounds": 93
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "Moab",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 12.63157844543457,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 25.26315689086914,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 37.894737243652347,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 50.52631378173828,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 63.15789031982422,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 75.78947448730469,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 88.42105102539063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 101.05262756347656,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 113.6842041015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 126.31578063964844,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 138.94735717773438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 151.57894897460938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 164.2105255126953,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 176.84210205078126,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 189.4736785888672,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 202.10525512695313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 214.73683166503907,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 227.368408203125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 239.99998474121095,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 101,
+            "upperBounds": 120
+        }
+    ]
+}

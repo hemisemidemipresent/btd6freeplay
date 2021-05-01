@@ -1,0 +1,61 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "MoabFortified",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 13.333332061767579,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 26.666664123535158,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 39.999996185302737,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 53.33332824707031,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 66.66665649414063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 79.99999237060547,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 93.33332824707031,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 106.66665649414063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "MoabFortified",
+            "time": 119.99998474121094,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 101,
+            "upperBounds": 120
+        }
+    ]
+}

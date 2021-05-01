@@ -1,0 +1,311 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "CeramicFortified",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 27.99152374267578,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 55.98304748535156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 83.97457122802735,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 111.96609497070313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 139.95761108398438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 167.9491424560547,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 195.940673828125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 223.93218994140626,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 251.9237060546875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 279.91522216796877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 307.9067687988281,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 335.8982849121094,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 363.8898010253906,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 391.88134765625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 419.87286376953127,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 447.8643798828125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 475.85589599609377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 503.847412109375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 531.8389282226563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 559.8304443359375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 587.822021484375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 615.8135375976563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 643.8050537109375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 671.7965698242188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 699.7880859375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 727.7796020507813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 755.7711181640625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 783.7626953125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 811.7542114257813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 839.7457275390625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 867.7372436523438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 895.728759765625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 923.7202758789063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 951.7117919921875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 979.7033081054688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1007.69482421875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1035.6864013671875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1063.6778564453125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1091.66943359375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1119.660888671875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1147.6524658203125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1175.64404296875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1203.635498046875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1231.6270751953125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1259.6185302734375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1287.610107421875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1315.6015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1343.5931396484375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1371.584716796875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1399.576171875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1427.5677490234375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1455.5592041015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1483.55078125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1511.542236328125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1539.5338134765625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1567.525390625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1595.516845703125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1623.5084228515625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 1651.4998779296875,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 38,
+            "upperBounds": 51
+        }
+    ]
+}

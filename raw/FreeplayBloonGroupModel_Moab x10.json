@@ -1,0 +1,61 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "Moab",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 33.33332824707031,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 66.66665649414063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 99.99998474121094,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 133.33331298828126,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 166.66664123535157,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 199.99996948242188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 233.3332977294922,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 266.6666259765625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Moab",
+            "time": 299.99993896484377,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 51,
+            "upperBounds": 70
+        }
+    ]
+}

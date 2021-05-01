@@ -1,0 +1,261 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 12.24489688873291,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 24.48979377746582,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 36.73469161987305,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 48.97958755493164,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 61.224483489990237,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 73.4693832397461,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 85.71427917480469,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 97.95917510986328,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 110.20407104492188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 122.44896697998047,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 134.69386291503907,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 146.9387664794922,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 159.18365478515626,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 171.42855834960938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 183.67344665527345,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 195.91835021972657,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 208.1632537841797,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 220.40814208984376,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 232.65304565429688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 244.89793395996095,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 257.142822265625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 269.3877258300781,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 281.63262939453127,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 293.8775329589844,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 306.1224365234375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 318.3673095703125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 330.6122131347656,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 342.85711669921877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 355.1020202636719,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 367.3468933105469,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 379.591796875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 391.8367004394531,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 404.08160400390627,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 416.3265075683594,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 428.5713806152344,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 440.8162841796875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 453.0611877441406,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 465.30609130859377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 477.55096435546877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 489.7958679199219,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 502.040771484375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 514.28564453125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 526.5305786132813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 538.7754516601563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 551.0203857421875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 563.2652587890625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 575.5101318359375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 587.7550659179688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadRegrowFortifiedCamo",
+            "time": 599.9999389648438,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 49,
+            "upperBounds": 75
+        }
+    ]
+}

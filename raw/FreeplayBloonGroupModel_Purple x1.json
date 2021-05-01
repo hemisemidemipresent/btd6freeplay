@@ -1,0 +1,16 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "Purple",
+            "time": 3.0,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 14,
+            "upperBounds": 20
+        }
+    ]
+}

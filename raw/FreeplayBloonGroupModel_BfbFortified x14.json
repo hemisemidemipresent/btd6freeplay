@@ -1,0 +1,85 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "BfbFortified",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 16.153844833374025,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 32.30768966674805,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 48.46153259277344,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 64.6153793334961,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 80.76922607421875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 96.92306518554688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 113.07691192626953,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 129.2307586669922,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 145.3845977783203,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 161.5384521484375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 177.69229125976563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 193.84613037109376,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 209.99998474121095,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 161,
+            "upperBounds": 162
+        },
+        {
+            "lowerBounds": 164,
+            "upperBounds": 199
+        }
+    ]
+}

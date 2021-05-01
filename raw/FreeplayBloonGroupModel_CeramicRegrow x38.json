@@ -1,0 +1,201 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "CeramicRegrow",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 35.18593978881836,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 70.37187957763672,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 105.55781555175781,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 140.74375915527345,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 175.92970275878907,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 211.11563110351563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 246.30157470703126,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 281.4875183105469,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 316.6734619140625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 351.8594055175781,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 387.04534912109377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 422.23126220703127,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 457.4172058105469,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 492.6031494140625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 527.7891235351563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 562.9750366210938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 598.1609497070313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 633.346923828125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 668.5328369140625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 703.7188110351563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 738.9047241210938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 774.0906982421875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 809.276611328125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 844.4625244140625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 879.6484985351563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 914.8344116210938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 950.0203857421875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 985.206298828125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 1020.3922729492188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 1055.5782470703125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 1090.76416015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 1125.9500732421875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 1161.135986328125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 1196.3218994140625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 1231.5079345703125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 1266.69384765625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 1301.8797607421875,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 45,
+            "upperBounds": 55
+        }
+    ]
+}

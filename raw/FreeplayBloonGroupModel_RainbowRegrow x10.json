@@ -1,0 +1,61 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "RainbowRegrow",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowRegrow",
+            "time": 34.25993347167969,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowRegrow",
+            "time": 68.51986694335938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowRegrow",
+            "time": 102.77980041503906,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowRegrow",
+            "time": 137.03973388671876,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowRegrow",
+            "time": 171.29966735839845,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowRegrow",
+            "time": 205.55960083007813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowRegrow",
+            "time": 239.8195343017578,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowRegrow",
+            "time": 274.0794677734375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "RainbowRegrow",
+            "time": 308.33941650390627,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 40,
+            "upperBounds": 50
+        }
+    ]
+}

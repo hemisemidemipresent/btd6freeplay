@@ -1,0 +1,136 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "White",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 25.08333396911621,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 50.16666793823242,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 75.25,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 100.33333587646485,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 125.41667175292969,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 150.5,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 175.58334350585938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 200.6666717529297,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 225.75,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 250.83334350585938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 275.91668701171877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 301.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 326.0833435058594,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 351.16668701171877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 376.25,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 401.3333435058594,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 426.41668701171877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 451.5,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 476.5833435058594,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 501.66668701171877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 526.75,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 551.8333740234375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 576.9166870117188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "White",
+            "time": 602.0,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 16,
+            "upperBounds": 35
+        }
+    ]
+}

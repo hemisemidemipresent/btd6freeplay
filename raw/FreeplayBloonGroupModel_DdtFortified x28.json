@@ -1,0 +1,155 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 4.444444179534912,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 8.888888359069825,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 13.333332061767579,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 17.77777671813965,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 22.22222137451172,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 26.666664123535158,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 31.111108779907228,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 35.5555534362793,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 39.999996185302737,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 44.44444274902344,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 48.888885498046878,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 53.33332824707031,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 57.777774810791019,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 62.22221755981445,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 66.66666412353516,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 71.1111068725586,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 75.55554962158203,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 79.99999237060547,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 84.44444274902344,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 88.88888549804688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 93.33332824707031,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 97.77777099609375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 102.22221374511719,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 106.66665649414063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 111.1111068725586,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 115.55554962158203,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 119.99999237060547,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 201,
+            "upperBounds": 262
+        },
+        {
+            "lowerBounds": 264,
+            "upperBounds": 9999
+        }
+    ]
+}

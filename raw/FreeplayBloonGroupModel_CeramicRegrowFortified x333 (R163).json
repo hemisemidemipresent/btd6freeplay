@@ -1,0 +1,1676 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 0.36144575476646426,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 0.7228915095329285,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 1.0843372344970704,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 1.445783019065857,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 1.8072288036346436,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 2.1686744689941408,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 2.530120372772217,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 2.891566038131714,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 3.253011703491211,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 3.614457607269287,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 3.975903272628784,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 4.337348937988281,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 4.698794841766357,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 5.060240745544434,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 5.421686172485352,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 5.783132076263428,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 6.144577980041504,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 6.506023406982422,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 6.867469310760498,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 7.228915214538574,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 7.590360641479492,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 7.951806545257568,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 8.313252449035645,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 8.674697875976563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 9.036144256591797,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 9.397589683532715,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 9.759035110473633,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 10.120481491088868,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 10.481926918029786,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 10.843372344970704,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 11.204818725585938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 11.566264152526856,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 11.927709579467774,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 12.289155960083008,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 12.650601387023926,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 13.012046813964844,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 13.373493194580079,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 13.734938621520996,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 14.096384048461914,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 14.457830429077149,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 14.819275856018067,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 15.180721282958985,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 15.542167663574219,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 15.903613090515137,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 16.265058517456056,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 16.62650489807129,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 16.987951278686525,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 17.349395751953126,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 17.71084213256836,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 18.072288513183595,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 18.433732986450197,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 18.79517936706543,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 19.156625747680665,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 19.518070220947267,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 19.8795166015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 20.240962982177736,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 20.602407455444337,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 20.96385383605957,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 21.325300216674806,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 21.686744689941408,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 22.04819107055664,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 22.409637451171876,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 22.771081924438478,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 23.13252830505371,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 23.493974685668947,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 23.855419158935548,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 24.21686553955078,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 24.578311920166017,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 24.939756393432618,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 25.30120277404785,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 25.662649154663087,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 26.024093627929689,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 26.385540008544923,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 26.746986389160158,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 27.108430862426759,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 27.469877243041993,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 27.831323623657228,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 28.192768096923829,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 28.554214477539064,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 28.915660858154298,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 29.2771053314209,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 29.638551712036134,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 29.999998092651368,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 30.36144256591797,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 30.722888946533204,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 31.084335327148439,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 31.44577980041504,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 31.807226181030275,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 32.168670654296878,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 32.53011703491211,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 32.891563415527347,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 33.25300979614258,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 33.61445617675781,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 33.97590255737305,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 34.337345123291019,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 34.69879150390625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 35.060237884521487,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 35.42168426513672,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 35.78313064575195,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 36.14457702636719,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 36.506019592285159,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 36.86746597290039,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 37.228912353515628,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 37.59035873413086,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 37.951805114746097,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 38.31325149536133,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 38.6746940612793,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 39.03614044189453,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 39.397586822509769,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 39.759033203125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 40.120479583740237,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 40.48192596435547,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 40.84336853027344,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 41.20481491088867,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 41.566261291503909,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 41.92770767211914,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 42.289154052734378,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 42.65060043334961,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 43.01204299926758,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 43.37348937988281,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 43.73493576049805,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 44.09638214111328,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 44.457828521728519,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 44.81927490234375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 45.18071746826172,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 45.54216384887695,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 45.90361022949219,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 46.26505661010742,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 46.626502990722659,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 46.98794937133789,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 47.349395751953128,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 47.710838317871097,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 48.07228469848633,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 48.43373107910156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 48.7951774597168,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 49.15662384033203,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 49.518070220947269,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 49.879512786865237,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 50.24095916748047,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 50.6024055480957,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 50.96385192871094,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 51.32529830932617,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 51.686744689941409,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 52.048187255859378,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 52.40963363647461,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 52.771080017089847,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 53.13252639770508,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 53.49397277832031,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 53.85541915893555,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 54.216861724853519,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 54.57830810546875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 54.939754486083987,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 55.30120086669922,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 55.66264724731445,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 56.02409362792969,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 56.385536193847659,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 56.74698257446289,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 57.108428955078128,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 57.46987533569336,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 57.831321716308597,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 58.19276809692383,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 58.5542106628418,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 58.91565704345703,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 59.277103424072269,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 59.6385498046875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 59.999996185302737,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 60.36144256591797,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 60.72288513183594,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 61.08433151245117,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 61.445777893066409,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 61.80722427368164,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 62.168670654296878,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 62.53011703491211,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 62.89155960083008,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 63.25300598144531,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 63.61445236206055,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 63.97589874267578,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 64.33734130859375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 64.69879150390625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 65.06023406982422,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 65.42168426513672,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 65.78312683105469,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 66.14456939697266,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 66.50601959228516,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 66.86746215820313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 67.22891235351563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 67.5903549194336,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 67.9518051147461,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 68.31324768066406,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 68.67469024658203,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 69.03614044189453,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 69.3975830078125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 69.759033203125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 70.12047576904297,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 70.48192596435547,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 70.84336853027344,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 71.2048110961914,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 71.5662612915039,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 71.92770385742188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 72.28915405273438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 72.65059661865235,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 73.01203918457031,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 73.37348937988281,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 73.73493194580078,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 74.09638214111328,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 74.45782470703125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 74.81927490234375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 75.18071746826172,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 75.54216003417969,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 75.90361022949219,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 76.26505279541016,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 76.62650299072266,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 76.98794555664063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 77.3493881225586,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 77.7108383178711,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 78.07228088378906,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 78.43373107910156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 78.79517364501953,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 79.15662384033203,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 79.51806640625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 79.87950897216797,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 80.24095916748047,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 80.60240173339844,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 80.96385192871094,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 81.3252944946289,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 81.68673706054688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 82.04818725585938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 82.40962982177735,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 82.77108001708985,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 83.13252258300781,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 83.49397277832031,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 83.85541534423828,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 84.21685791015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 84.57830810546875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 84.93975067138672,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 85.30120086669922,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 85.66264343261719,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 86.02408599853516,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 86.38553619384766,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 86.74697875976563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 87.10842895507813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 87.4698715209961,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 87.8313217163086,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 88.19276428222656,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 88.55420684814453,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 88.91565704345703,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 89.277099609375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 89.6385498046875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 89.99999237060547,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 90.36143493652344,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 90.72288513183594,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 91.0843276977539,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 91.4457778930664,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 91.80722045898438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 92.16867065429688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 92.53011322021485,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 92.89155578613281,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 93.25300598144531,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 93.61444854736328,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 93.97589874267578,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 94.33734130859375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 94.69879150390625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 95.06023406982422,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 95.42167663574219,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 95.78312683105469,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 96.14456939697266,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 96.50601959228516,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 96.86746215820313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 97.2289047241211,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 97.5903549194336,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 97.95179748535156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 98.31324768066406,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 98.67469024658203,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 99.03614044189453,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 99.3975830078125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 99.75902557373047,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 100.12047576904297,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 100.48191833496094,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 100.84336853027344,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 101.2048110961914,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 101.56625366210938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 101.92770385742188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 102.28914642333985,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 102.65059661865235,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 103.01203918457031,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 103.37348937988281,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 103.73493194580078,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 104.09637451171875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 104.45782470703125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 104.81926727294922,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 105.18071746826172,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 105.54216003417969,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 105.90360260009766,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 106.26505279541016,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 106.62649536132813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 106.98794555664063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 107.3493881225586,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 107.7108383178711,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 108.07228088378906,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 108.43372344970703,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 108.79517364501953,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 109.1566162109375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 109.51806640625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 109.87950897216797,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 110.24095153808594,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 110.60240173339844,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 110.9638442993164,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 111.3252944946289,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 111.68673706054688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 112.04818725585938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 112.40962982177735,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 112.77107238769531,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 113.13252258300781,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 113.49396514892578,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 113.85541534423828,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 114.21685791015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 114.57830047607422,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 114.93975067138672,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 115.30119323730469,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 115.66264343261719,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 116.02408599853516,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 116.38553619384766,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 116.74697875976563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 117.1084213256836,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 117.4698715209961,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 117.83131408691406,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 118.19276428222656,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 118.55420684814453,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 118.91565704345703,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 119.277099609375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 119.63854217529297,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortified",
+            "time": 119.99999237060547,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 163,
+            "upperBounds": 163
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "Blue",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 8.823528289794922,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 17.647056579589845,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 26.470584869384767,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 35.29411315917969,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 44.11764144897461,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 52.94116973876953,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 61.76469802856445,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 70.58822631835938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 79.41175842285156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 88.23528289794922,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 97.05880737304688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 105.88233947753906,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 114.70587158203125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 123.5293960571289,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 132.35292053222657,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 141.17645263671876,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Blue",
+            "time": 149.99998474121095,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 2,
+            "upperBounds": 19
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "Zomg",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 69.99999237060547,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 139.99998474121095,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 209.99996948242188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 279.9999694824219,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 349.9999694824219,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 419.99993896484377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 489.99993896484377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 559.9999389648438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 629.9999389648438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 699.9999389648438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 769.9999389648438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 839.9998779296875,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 151,
+            "upperBounds": 160
+        }
+    ]
+}

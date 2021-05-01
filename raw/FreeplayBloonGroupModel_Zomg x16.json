@@ -1,0 +1,91 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "Zomg",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 72.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 144.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 216.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 288.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 360.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 432.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 504.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 576.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 648.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 720.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 792.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 864.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 936.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 1008.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 1080.0,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 121,
+            "upperBounds": 130
+        }
+    ]
+}

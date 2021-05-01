@@ -1,0 +1,26 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "Yellow",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Yellow",
+            "time": 29.999998092651368,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Yellow",
+            "time": 59.999996185302737,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 7,
+            "upperBounds": 10
+        }
+    ]
+}

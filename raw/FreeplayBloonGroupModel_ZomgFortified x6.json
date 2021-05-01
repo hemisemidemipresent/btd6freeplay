@@ -1,0 +1,41 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "ZomgFortified",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZomgFortified",
+            "time": 161.99998474121095,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZomgFortified",
+            "time": 323.9999694824219,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZomgFortified",
+            "time": 485.99993896484377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZomgFortified",
+            "time": 647.9999389648438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZomgFortified",
+            "time": 809.9999389648438,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 121,
+            "upperBounds": 130
+        }
+    ]
+}

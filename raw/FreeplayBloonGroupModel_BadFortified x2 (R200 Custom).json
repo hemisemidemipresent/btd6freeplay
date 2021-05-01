@@ -1,0 +1,21 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "BadFortified",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BadFortified",
+            "time": 1199.9998779296875,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 200,
+            "upperBounds": 200
+        }
+    ]
+}

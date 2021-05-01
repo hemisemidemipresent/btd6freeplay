@@ -1,0 +1,126 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "PinkRegrow",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 23.727270126342775,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 47.45454025268555,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 71.18180847167969,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 94.9090805053711,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 118.6363525390625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 142.36361694335938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 166.0908966064453,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 189.8181610107422,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 213.54542541503907,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 237.272705078125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 260.9999694824219,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 284.72723388671877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 308.4544982910156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 332.1817932128906,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 355.9090576171875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 379.6363220214844,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 403.36358642578127,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 427.0908508300781,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 450.8181457519531,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 474.54541015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 498.2726745605469,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkRegrow",
+            "time": 521.9999389648438,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 15,
+            "upperBounds": 43
+        }
+    ]
+}

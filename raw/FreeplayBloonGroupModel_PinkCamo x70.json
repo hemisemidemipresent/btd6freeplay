@@ -1,0 +1,361 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "PinkCamo",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 15.778982162475586,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 31.557964324951173,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 47.336944580078128,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 63.115928649902347,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 78.89491271972656,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 94.67388916015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 110.45287322998047,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 126.23185729980469,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 142.01083374023438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 157.78982543945313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 173.5688018798828,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 189.3477783203125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 205.12677001953126,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 220.90574645996095,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 236.6847381591797,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 252.46371459960938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 268.2427062988281,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 284.02166748046877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 299.8006591796875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 315.57965087890627,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 331.3586120605469,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 347.1376037597656,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 362.9165954589844,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 378.695556640625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 394.47454833984377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 410.2535400390625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 426.03253173828127,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 441.8114929199219,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 457.5904846191406,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 473.3694763183594,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 489.1484375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 504.92742919921877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 520.7064208984375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 536.4854125976563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 552.264404296875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 568.0433349609375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 583.8223266601563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 599.601318359375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 615.3803100585938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 631.1593017578125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 646.9382934570313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 662.7172241210938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 678.4962158203125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 694.2752075195313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 710.05419921875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 725.8331909179688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 741.6121826171875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 757.39111328125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 773.1701049804688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 788.9490966796875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 804.7280883789063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 820.507080078125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 836.2860717773438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 852.0650634765625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 867.843994140625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 883.6229858398438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 899.4019775390625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 915.1809692382813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 930.9599609375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 946.7389526367188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 962.5178833007813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 978.296875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 994.0758666992188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 1009.8548583984375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 1025.6337890625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 1041.412841796875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 1057.1917724609375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 1072.9708251953125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "PinkCamo",
+            "time": 1088.749755859375,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 30,
+            "upperBounds": 40
+        }
+    ]
+}

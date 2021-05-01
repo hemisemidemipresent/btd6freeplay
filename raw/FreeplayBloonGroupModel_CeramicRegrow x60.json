@@ -1,0 +1,311 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "CeramicRegrow",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 1.807118535041809,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 3.614237070083618,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 5.421355724334717,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 7.228474140167236,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 9.035593032836914,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 10.842711448669434,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 12.649829864501954,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 14.456948280334473,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 16.264066696166993,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 18.071186065673829,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 19.87830352783203,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 21.685422897338868,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 23.49254035949707,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 25.299659729003908,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 27.10677719116211,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 28.913896560668947,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 30.72101593017578,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 32.528133392333987,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 34.33525085449219,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 36.142372131347659,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 37.94948959350586,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 39.75660705566406,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 41.563724517822269,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 43.370845794677737,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 45.17796325683594,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 46.98508071899414,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 48.79220199584961,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 50.59931945800781,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 52.406436920166019,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 54.21355438232422,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 56.02067565917969,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 57.82779312133789,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 59.634910583496097,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 61.44203186035156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 63.249149322509769,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 65.05626678466797,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 66.86338806152344,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 68.67050170898438,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 70.47762298583985,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 72.28474426269531,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 74.09185791015625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 75.89897918701172,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 77.70610046386719,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 79.51321411132813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 81.3203353881836,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 83.12744903564453,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 84.9345703125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 86.74169158935547,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 88.5488052368164,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 90.35592651367188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 92.16304779052735,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 93.97016143798828,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 95.77728271484375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 97.58440399169922,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 99.39151763916016,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 101.19863891601563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 103.0057601928711,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 104.81287384033203,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrow",
+            "time": 106.6199951171875,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 50,
+            "upperBounds": 99
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "Bfb",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 26.08695411682129,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 52.17390823364258,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 78.2608642578125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 104.34781646728516,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 130.4347686767578,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 156.521728515625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 182.60867309570313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 208.6956329345703,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 234.7825927734375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 260.8695373535156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 286.95648193359377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 313.04345703125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 339.1304016113281,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 365.21734619140627,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 391.3043212890625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 417.3912658691406,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 443.47821044921877,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 469.565185546875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 495.6521301269531,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 521.7390747070313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 547.8260498046875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 573.9129638671875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Bfb",
+            "time": 599.9999389648438,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 101,
+            "upperBounds": 120
+        }
+    ]
+}

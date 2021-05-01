@@ -1,0 +1,51 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "LeadFortified",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadFortified",
+            "time": 34.2599983215332,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadFortified",
+            "time": 68.5199966430664,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadFortified",
+            "time": 102.77999877929688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadFortified",
+            "time": 137.0399932861328,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadFortified",
+            "time": 171.29998779296876,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadFortified",
+            "time": 205.55999755859376,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "LeadFortified",
+            "time": 239.8199920654297,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 25,
+            "upperBounds": 33
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "BfbFortified",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 17.499998092651368,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 34.999996185302737,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 52.49999237060547,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 69.99999237060547,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 87.49999237060547,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 104.99998474121094,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 122.49998474121094,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 139.99998474121095,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 157.49998474121095,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 174.99998474121095,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 192.49998474121095,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "BfbFortified",
+            "time": 209.99996948242188,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 141,
+            "upperBounds": 150
+        }
+    ]
+}

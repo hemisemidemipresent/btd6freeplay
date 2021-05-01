@@ -1,0 +1,76 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 39.96999740600586,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 79.93999481201172,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 119.90998840332031,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 159.87998962402345,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 199.84999084472657,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 239.81997680664063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 279.78997802734377,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 319.7599792480469,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 359.72998046875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 399.6999816894531,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 439.66998291015627,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicRegrowFortifiedCamo",
+            "time": 479.63995361328127,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 50,
+            "upperBounds": 65
+        }
+    ]
+}

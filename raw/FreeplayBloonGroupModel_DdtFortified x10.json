@@ -1,0 +1,61 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 16.666664123535158,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 33.33332824707031,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 49.99999237060547,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 66.66665649414063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 83.33332061767578,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 99.99998474121094,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 116.6666488647461,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 133.33331298828126,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 149.99996948242188,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 151,
+            "upperBounds": 160
+        }
+    ]
+}

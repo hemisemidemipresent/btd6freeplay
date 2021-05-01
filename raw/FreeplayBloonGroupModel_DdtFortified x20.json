@@ -1,0 +1,115 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 3.1578946113586427,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 6.315789222717285,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 9.473684310913086,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 12.63157844543457,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 15.789472579956055,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 18.947368621826173,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 22.105262756347658,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 25.26315689086914,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 28.421051025390626,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 31.57894515991211,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 34.736839294433597,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 37.894737243652347,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 41.05263137817383,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 44.21052551269531,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 47.3684196472168,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 50.52631378173828,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 53.684207916259769,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 56.84210205078125,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "DdtFortifiedCamo",
+            "time": 59.999996185302737,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 201,
+            "upperBounds": 262
+        },
+        {
+            "lowerBounds": 264,
+            "upperBounds": 9999
+        }
+    ]
+}

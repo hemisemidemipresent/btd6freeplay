@@ -1,0 +1,26 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "CeramicFortified",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 119.99999237060547,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "CeramicFortified",
+            "time": 239.99998474121095,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 38,
+            "upperBounds": 41
+        }
+    ]
+}

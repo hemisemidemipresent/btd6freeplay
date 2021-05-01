@@ -1,0 +1,111 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "ZebraRegrow",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 34.2599983215332,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 68.5199966430664,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 102.77999877929688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 137.0399932861328,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 171.29998779296876,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 205.55999755859376,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 239.8199920654297,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 274.0799865722656,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 308.3399963378906,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 342.5999755859375,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 376.8599853515625,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 411.1199951171875,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 445.3799743652344,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 479.6399841308594,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 513.8999633789063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 548.1599731445313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 582.4199829101563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 616.6799926757813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "ZebraRegrow",
+            "time": 650.93994140625,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 24,
+            "upperBounds": 35
+        }
+    ]
+}

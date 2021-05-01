@@ -1,0 +1,101 @@
+{
+    "bloonEmissions_": [
+        {
+            "bloon": "Zomg",
+            "time": 0.0,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 56.470584869384769,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 112.94116973876953,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 169.41175842285157,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 225.88233947753907,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 282.3529357910156,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 338.8235168457031,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 395.2940979003906,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 451.7646789550781,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 508.2352600097656,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 564.7058715820313,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 621.1764526367188,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 677.6470336914063,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 734.1176147460938,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 790.5881958007813,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 847.0587768554688,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 903.5293579101563,
+            "emissionIndex": 0
+        },
+        {
+            "bloon": "Zomg",
+            "time": 959.9999389648438,
+            "emissionIndex": 0
+        }
+    ],
+    "score": 0.0,
+    "bounds": [
+        {
+            "lowerBounds": 141,
+            "upperBounds": 150
+        }
+    ]
+}

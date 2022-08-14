@@ -1,0 +1,104 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 25,
+      "upperBounds": 38
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "YellowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_YellowCamo x13 [25-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "YellowCamo",
+      "time": 49.9999962,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_YellowCamo x13 [25-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "YellowCamo",
+      "time": 99.99999,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_YellowCamo x13 [25-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "YellowCamo",
+      "time": 149.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_YellowCamo x13 [25-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "YellowCamo",
+      "time": 199.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_YellowCamo x13 [25-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "YellowCamo",
+      "time": 249.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_YellowCamo x13 [25-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "YellowCamo",
+      "time": 299.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_YellowCamo x13 [25-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "YellowCamo",
+      "time": 349.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_YellowCamo x13 [25-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "YellowCamo",
+      "time": 399.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_YellowCamo x13 [25-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "YellowCamo",
+      "time": 449.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_YellowCamo x13 [25-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "YellowCamo",
+      "time": 499.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_YellowCamo x13 [25-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "YellowCamo",
+      "time": 549.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_YellowCamo x13 [25-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "YellowCamo",
+      "time": 599.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_YellowCamo x13 [25-38]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_YellowCamo x13 [25-38]",
+  "ImplementationType": null
+}

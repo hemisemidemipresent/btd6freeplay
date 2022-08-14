@@ -1,0 +1,3513 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 65,
+      "upperBounds": 80
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "RainbowRegrow",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 7.21442842,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 14.4288568,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 21.6432858,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 28.8577137,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 36.0721436,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 43.28657,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 50.501,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 57.7154274,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 64.9298553,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 72.14429,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 79.35871,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 86.57314,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 93.78757,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 101.002,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 108.216423,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 115.430855,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 122.645287,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 129.859711,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 137.074142,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 144.288574,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 151.502991,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 158.717422,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 165.931854,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 173.146286,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 180.360718,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 187.575134,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 194.789566,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 202.004,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 209.21843,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 216.432846,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 223.647278,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 230.86171,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 238.076141,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 245.290573,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 252.50499,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 259.719421,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 266.933838,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 274.1483,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 281.3627,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 288.577148,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 295.791565,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 303.005981,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 310.220428,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 317.434845,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 324.6493,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 331.8637,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 339.078125,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 346.292572,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 353.507,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 360.721436,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 367.935852,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 375.150269,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 382.364716,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 389.579132,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 396.793549,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 404.008,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 411.2224,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 418.436859,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 425.651276,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 432.8657,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 440.080139,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 447.294556,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 454.509,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 461.723419,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 468.937836,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 476.152283,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 483.3667,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 490.581146,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 497.795563,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 505.009979,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 512.2244,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 519.438843,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 526.653259,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 533.8677,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 541.082153,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 548.2966,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 555.511,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 562.7254,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 569.9398,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 577.1543,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 584.3687,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 591.5831,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 598.797546,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 606.011963,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 613.22644,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 620.440857,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 627.6553,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 634.8697,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 642.0841,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 649.2986,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 656.513,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 663.7274,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 670.941833,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 678.15625,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 685.3707,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 692.585144,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 699.799561,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 707.014,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 714.2284,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 721.4429,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 728.6573,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 735.8717,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 743.0861,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 750.300537,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 757.515,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 764.729431,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 771.943848,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 779.158264,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 786.3727,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 793.5871,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 800.8016,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 808.016,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 815.2304,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 822.4448,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 829.659241,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 836.8737,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 844.088135,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 851.302551,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 858.516968,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 865.7314,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 872.945862,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 880.1603,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 887.3747,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 894.5891,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 901.8035,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 909.018,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 916.2324,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 923.446838,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 930.661255,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 937.8757,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 945.090149,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 952.304565,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 959.519,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 966.7334,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 973.9478,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 981.1623,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 988.3767,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 995.5911,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1002.80554,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1010.01996,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1017.23444,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1024.44885,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1031.66321,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1038.87769,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1046.09216,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1053.30652,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1060.521,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1067.73535,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1074.94983,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1082.16431,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1089.37866,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1096.59314,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1103.8075,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1111.022,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1118.23645,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1125.45081,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1132.66528,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1139.87964,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1147.09412,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1154.30859,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1161.523,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1168.73743,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1175.95178,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1183.16626,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1190.38074,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1197.59509,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1204.80957,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1212.02393,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1219.2384,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1226.45288,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1233.66724,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1240.88171,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1248.09607,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1255.31055,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1262.525,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1269.73938,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1276.95386,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1284.16821,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1291.38269,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1298.59717,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1305.81152,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1313.026,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1320.24036,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1327.45483,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1334.66931,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1341.88367,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1349.09814,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1356.3125,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1363.527,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1370.74146,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1377.95581,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1385.17029,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1392.38464,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1399.59912,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1406.8136,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1414.028,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1421.24243,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1428.45679,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1435.67126,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1442.88574,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1450.1001,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1457.31458,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1464.52893,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1471.74341,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1478.95789,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1486.17224,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1493.38672,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1500.60107,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1507.81555,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1515.03,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1522.24438,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1529.45886,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1536.67322,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1543.8877,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1551.102,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1558.31653,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1565.531,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1572.74536,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1579.95984,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1587.17419,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1594.38867,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1601.60315,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1608.8175,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1616.032,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1623.24634,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1630.46082,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1637.67529,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1644.88965,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1652.10413,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1659.31848,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1666.533,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1673.74744,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1680.96179,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1688.17627,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1695.39063,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1702.6051,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1709.81958,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1717.03394,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1724.24841,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1731.46277,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1738.67725,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1745.89172,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1753.10608,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1760.32056,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1767.53491,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1774.74939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1781.96387,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1789.17822,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1796.3927,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1803.607,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1810.82153,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1818.036,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1825.25037,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1832.46484,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1839.6792,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1846.89368,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1854.10815,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1861.32251,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1868.537,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1875.75134,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1882.96582,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1890.1803,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1897.39465,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1904.60913,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1911.82349,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1919.038,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1926.25244,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1933.4668,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1940.68127,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1947.89563,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1955.11011,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1962.32458,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1969.539,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1976.75342,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1983.96777,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1991.18225,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 1998.39673,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2005.61108,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2012.82556,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2020.03992,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2027.25439,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2034.46887,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2041.68323,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2048.89771,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2056.112,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2063.32642,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2070.541,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2077.75537,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2084.96973,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2092.18433,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2099.39868,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2106.613,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2113.82764,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2121.042,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2128.25635,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2135.4707,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2142.6853,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2149.89966,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2157.114,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2164.32861,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2171.543,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2178.75732,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2185.972,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2193.18628,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2200.40063,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2207.615,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2214.82959,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2222.044,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2229.2583,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2236.473,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2243.68726,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2250.90161,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2258.11621,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2265.33057,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2272.545,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2279.75928,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2286.97388,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2294.18823,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2301.40259,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2308.61719,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2315.83154,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2323.046,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2330.2605,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2337.47485,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2344.68921,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2351.90356,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2359.11816,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2366.33252,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2373.54688,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2380.76147,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2387.97583,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2395.19019,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2402.40479,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2409.61914,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2416.8335,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2424.04785,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2431.26245,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2438.47681,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2445.69116,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2452.90576,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2460.12,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2467.33447,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2474.54883,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2481.76343,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2488.97778,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2496.19214,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2503.40674,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2510.621,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2517.83545,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2525.05,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2532.2644,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2539.47876,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2546.693,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2553.90771,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2561.122,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2568.33643,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2575.551,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2582.76538,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2589.97974,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2597.19434,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2604.40869,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2611.623,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2618.8374,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2626.052,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2633.26636,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2640.48071,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2647.69531,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2654.90967,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2662.124,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2669.33862,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2676.553,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2683.76733,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2690.98169,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2698.19629,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2705.41064,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2712.625,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2719.8396,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2727.054,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2734.26831,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2741.483,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2748.69727,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2755.91162,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2763.126,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2770.34058,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2777.555,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2784.76929,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2791.984,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2799.19824,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2806.4126,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2813.6272,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2820.84155,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2828.056,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2835.27026,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2842.48486,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2849.69922,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2856.91357,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2864.12817,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2871.34253,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2878.557,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2885.77148,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2892.98584,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2900.2002,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2907.41455,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2914.62915,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2921.84351,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2929.05786,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2936.27246,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2943.48682,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2950.70117,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2957.91577,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2965.13013,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2972.34448,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2979.55884,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2986.77344,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 2993.98779,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3001.20215,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3008.41675,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3015.631,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3022.84546,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3030.06,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3037.27441,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3044.48877,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3051.70313,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3058.91772,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3066.132,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3073.34644,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3080.561,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3087.77539,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3094.98975,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3102.204,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3109.4187,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3116.633,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3123.84741,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3131.062,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3138.27637,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3145.49072,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3152.70532,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3159.91968,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3167.134,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3174.34839,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3181.563,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3188.77734,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3195.9917,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3203.2063,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3210.42065,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3217.635,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3224.84961,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3232.064,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3239.27832,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3246.49268,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3253.70728,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3260.92163,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3268.136,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3275.35059,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3282.565,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3289.7793,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3296.994,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3304.20825,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3311.42261,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3318.637,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3325.85156,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3333.066,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3340.28027,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3347.49487,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3354.70923,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3361.92358,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3369.13818,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3376.35254,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3383.567,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3390.78125,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3397.99585,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3405.21021,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3412.42456,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3419.63916,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3426.85352,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3434.06787,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3441.28247,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3448.49683,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3455.71118,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3462.92554,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3470.14014,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3477.35449,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3484.56885,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3491.78345,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3498.9978,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3506.21216,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3513.42676,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3520.641,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3527.85547,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3535.06982,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3542.28442,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3549.49878,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3556.71313,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3563.92773,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3571.142,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3578.35645,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3585.571,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3592.7854,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 3599.99976,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x500 [65-80]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_RainbowRegrow x500 [65-80]",
+  "ImplementationType": null
+}

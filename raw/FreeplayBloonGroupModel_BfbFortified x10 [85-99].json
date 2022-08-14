@@ -1,0 +1,83 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 85,
+      "upperBounds": 99
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "BfbFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x10 [85-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 120.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x10 [85-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 240.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x10 [85-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 360.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x10 [85-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 480.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x10 [85-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 600.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x10 [85-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 720.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x10 [85-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 840.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x10 [85-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 960.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x10 [85-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 1080.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x10 [85-99]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_BfbFortified x10 [85-99]",
+  "ImplementationType": null
+}

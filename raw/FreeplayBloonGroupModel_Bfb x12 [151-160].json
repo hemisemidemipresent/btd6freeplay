@@ -1,0 +1,97 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 151,
+      "upperBounds": 160
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Bfb",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [151-160]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 16.3636341,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [151-160]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 32.72727,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [151-160]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 49.0909042,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [151-160]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 65.45454,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [151-160]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 81.81817,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [151-160]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 98.18181,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [151-160]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 114.545441,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [151-160]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 130.909073,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [151-160]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 147.2727,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [151-160]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 163.636337,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [151-160]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 179.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [151-160]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Bfb x12 [151-160]",
+  "ImplementationType": null
+}

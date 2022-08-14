@@ -1,0 +1,97 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 131,
+      "upperBounds": 140
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "BfbFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x12 [131-140]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 20.4545441,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x12 [131-140]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 40.90909,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x12 [131-140]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 61.3636322,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x12 [131-140]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 81.81818,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x12 [131-140]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 102.27272,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x12 [131-140]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 122.727264,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x12 [131-140]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 143.181808,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x12 [131-140]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 163.636353,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x12 [131-140]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 184.0909,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x12 [131-140]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 204.545441,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x12 [131-140]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 224.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x12 [131-140]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_BfbFortified x12 [131-140]",
+  "ImplementationType": null
+}

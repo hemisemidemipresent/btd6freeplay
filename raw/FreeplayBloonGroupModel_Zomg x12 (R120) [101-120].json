@@ -1,0 +1,97 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 101,
+      "upperBounds": 120
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Zomg",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x12 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 109.0909,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x12 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 218.1818,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x12 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 327.2727,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x12 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 436.3636,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x12 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 545.454468,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x12 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 654.5454,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x12 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 763.6363,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x12 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 872.7272,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x12 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 981.818054,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x12 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 1090.90894,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x12 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 1199.99988,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x12 (R120) [101-120]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Zomg x12 (R120) [101-120]",
+  "ImplementationType": null
+}

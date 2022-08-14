@@ -1,0 +1,717 @@
+{
+  "score": 1.0,
+  "bounds": [
+    {
+      "lowerBounds": 10000,
+      "upperBounds": 10000
+    },
+    {
+      "lowerBounds": 10006,
+      "upperBounds": 10133701
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 9.090908,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 18.1818161,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 27.2727242,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 36.3636322,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 45.45454,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 54.54545,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 63.6363564,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 72.7272644,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 81.81818,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 90.90908,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 99.9999847,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 109.0909,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 118.181808,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 127.272713,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 136.363617,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 145.454529,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 154.545441,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 163.636353,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 172.727249,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 181.818161,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 190.909073,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 199.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 209.090881,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 218.1818,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 227.2727,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 236.363617,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 245.454514,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 254.545425,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 263.636322,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 272.727234,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 281.818146,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 290.909058,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 299.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 309.090881,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 318.1818,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 327.2727,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 336.3636,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 345.4545,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 354.5454,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 363.636322,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 372.727234,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 381.818146,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 390.909058,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 399.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 409.090851,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 418.181763,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 427.272675,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 436.3636,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 445.4545,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 454.5454,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 463.636322,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 472.727234,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 481.8181,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 490.909027,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 499.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 509.090851,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 518.181763,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 527.272644,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 536.3636,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 545.454468,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 554.5454,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 563.6363,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 572.727234,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 581.8181,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 590.909,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 599.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 609.0908,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 618.181763,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 627.272644,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 636.3636,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 645.454468,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 654.5454,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 663.6363,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 672.7272,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 681.8181,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 690.909,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 699.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 709.0908,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 718.181763,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 727.272644,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 736.3635,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 745.454468,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 754.545349,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 763.6363,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 772.7272,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 781.8181,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 790.909,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 799.9999,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 809.0908,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 818.1817,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 827.272644,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 836.3635,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 845.454468,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 854.545349,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 863.6363,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 872.7272,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 881.818054,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 890.909,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 899.9999,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_BadFortified x100 (The agAind) [10000-10000], [10006-10133701]",
+  "ImplementationType": null
+}

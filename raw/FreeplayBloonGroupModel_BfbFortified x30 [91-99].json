@@ -1,0 +1,223 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 91,
+      "upperBounds": 99
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "BfbFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 62.0689621,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 124.137924,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 186.206879,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 248.275848,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 310.344818,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 372.413757,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 434.482727,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 496.5517,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 558.620667,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 620.689636,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 682.7586,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 744.8275,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 806.8965,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 868.965454,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 931.0344,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 993.1034,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 1055.17236,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 1117.24133,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 1179.3103,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 1241.37927,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 1303.44824,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 1365.51721,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 1427.58618,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 1489.655,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 1551.724,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 1613.793,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 1675.86194,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 1737.93091,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BfbFortified",
+      "time": 1799.99988,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BfbFortified x30 [91-99]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_BfbFortified x30 [91-99]",
+  "ImplementationType": null
+}

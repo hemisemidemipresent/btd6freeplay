@@ -1,0 +1,48 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 29,
+      "upperBounds": 34
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Rainbow",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x5 [29-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 34.26,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x5 [29-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 68.52,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x5 [29-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 102.78,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x5 [29-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 137.04,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x5 [29-34]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Rainbow x5 [29-34]",
+  "ImplementationType": null
+}

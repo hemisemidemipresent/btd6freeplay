@@ -1,0 +1,101 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 201,
+      "upperBounds": 262
+    },
+    {
+      "lowerBounds": 264,
+      "upperBounds": 9999
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "DdtFortifiedCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_DdtFortified x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtFortifiedCamo",
+      "time": 5.454545,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_DdtFortified x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtFortifiedCamo",
+      "time": 10.90909,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_DdtFortified x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtFortifiedCamo",
+      "time": 16.363636,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_DdtFortified x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtFortifiedCamo",
+      "time": 21.81818,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_DdtFortified x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtFortifiedCamo",
+      "time": 27.2727242,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_DdtFortified x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtFortifiedCamo",
+      "time": 32.727272,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_DdtFortified x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtFortifiedCamo",
+      "time": 38.1818161,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_DdtFortified x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtFortifiedCamo",
+      "time": 43.63636,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_DdtFortified x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtFortifiedCamo",
+      "time": 49.0909042,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_DdtFortified x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtFortifiedCamo",
+      "time": 54.54545,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_DdtFortified x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtFortifiedCamo",
+      "time": 59.9999962,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_DdtFortified x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_DdtFortified x12 [201-262], [264-9999]",
+  "ImplementationType": null
+}

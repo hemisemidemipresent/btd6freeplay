@@ -1,0 +1,1273 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 10,
+      "upperBounds": 40
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Pink",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 11.7318439,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 23.4636879,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 35.1955338,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 46.9273758,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 58.6592178,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 70.39107,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 82.12291,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 93.85475,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 105.586594,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 117.318436,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 129.050278,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 140.782135,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 152.513977,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 164.245819,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 175.977661,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 187.7095,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 199.441345,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 211.173187,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 222.905029,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 234.636871,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 246.368729,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 258.100555,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 269.8324,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 281.56427,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 293.2961,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 305.027954,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 316.7598,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 328.491638,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 340.22348,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 351.955322,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 363.687164,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 375.419,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 387.150848,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 398.8827,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 410.614532,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 422.346375,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 434.078217,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 445.810059,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 457.5419,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 469.273743,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 481.0056,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 492.737457,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 504.4693,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 516.2011,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 527.933,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 539.6648,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 551.396667,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 563.12854,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 574.860352,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 586.5922,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 598.324036,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 610.0559,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 621.7877,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 633.5196,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 645.2514,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 656.9833,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 668.7151,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 680.44696,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 692.1788,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 703.910645,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 715.642456,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 727.3743,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 739.10614,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 750.838,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 762.5699,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 774.3017,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 786.033569,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 797.7654,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 809.497253,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 821.229065,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 832.960938,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 844.692749,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 856.4246,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 868.156433,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 879.8883,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 891.6201,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 903.352,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 915.0838,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 926.8157,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 938.5475,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 950.279358,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 962.0112,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 973.743042,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 985.4749,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 997.2067,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1008.9386,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1020.67041,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1032.40222,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1044.13416,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1055.866,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1067.59778,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1079.32959,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1091.06152,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1102.79333,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1114.52515,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1126.25708,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1137.98889,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1149.7207,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1161.45251,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1173.18445,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1184.91626,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1196.64807,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1208.37988,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1220.11182,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1231.84363,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1243.57544,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1255.30725,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1267.03918,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1278.771,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1290.50281,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1302.23462,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1313.96655,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1325.69836,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1337.43018,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1349.16211,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1360.89392,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1372.62573,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1384.35754,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1396.08948,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1407.82129,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1419.5531,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1431.28491,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1443.01685,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1454.74866,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1466.48047,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1478.21228,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1489.94421,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1501.676,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1513.40784,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1525.13977,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1536.87158,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1548.60339,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1560.33521,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1572.06714,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1583.799,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1595.53076,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1607.26257,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1618.99451,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1630.72632,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1642.45813,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1654.19,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1665.92188,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1677.65369,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1689.3855,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1701.11743,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1712.84924,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1724.581,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1736.31287,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1748.0448,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1759.77661,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1771.50842,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1783.24023,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1794.97217,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1806.704,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1818.43579,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1830.1676,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1841.89954,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1853.63135,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1865.36316,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1877.095,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1888.8269,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1900.55872,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1912.29053,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1924.02246,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1935.75427,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1947.48608,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1959.2179,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1970.94983,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1982.68164,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 1994.41345,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 2006.14526,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 2017.8772,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 2029.609,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 2041.34082,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 2053.07275,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 2064.80444,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 2076.53638,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 2088.26831,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Pink",
+      "time": 2100.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Pink x180 [10-40]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Pink x180 [10-40]",
+  "ImplementationType": null
+}

@@ -1,0 +1,153 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 101,
+      "upperBounds": 120
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Moab",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 12.6315784,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 25.2631569,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 37.8947372,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 50.5263138,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 63.15789,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 75.7894745,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 88.42105,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 101.052628,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 113.684204,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 126.315781,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 138.947357,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 151.578949,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 164.210526,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 176.8421,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 189.473679,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 202.105255,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 214.736832,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 227.368408,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 239.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x20 (R120) [101-120]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Moab x20 (R120) [101-120]",
+  "ImplementationType": null
+}

@@ -1,0 +1,55 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 101,
+      "upperBounds": 120
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "ZomgFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZomgFortified x10 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZomgFortified",
+      "time": 323.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZomgFortified x10 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZomgFortified",
+      "time": 647.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZomgFortified x10 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZomgFortified",
+      "time": 971.9999,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZomgFortified x10 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZomgFortified",
+      "time": 1295.99988,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZomgFortified x10 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZomgFortified",
+      "time": 1619.99988,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZomgFortified x10 (R120) [101-120]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_ZomgFortified x10 (R120) [101-120]",
+  "ImplementationType": null
+}

@@ -1,0 +1,76 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 20,
+      "upperBounds": 29
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "LeadRegrow",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x9 [20-29]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 98.02573,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x9 [20-29]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 196.051453,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x9 [20-29]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 294.077179,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x9 [20-29]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 392.1029,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x9 [20-29]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 490.128632,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x9 [20-29]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 588.154358,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x9 [20-29]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 686.180054,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x9 [20-29]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 784.2058,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x9 [20-29]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_LeadRegrow x9 [20-29]",
+  "ImplementationType": null
+}

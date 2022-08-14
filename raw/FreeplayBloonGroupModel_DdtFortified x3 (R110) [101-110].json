@@ -1,0 +1,34 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 101,
+      "upperBounds": 110
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "DdtFortifiedCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_DdtFortified x3 (R110) [101-110]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtFortifiedCamo",
+      "time": 119.999992,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_DdtFortified x3 (R110) [101-110]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtFortifiedCamo",
+      "time": 239.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_DdtFortified x3 (R110) [101-110]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_DdtFortified x3 (R110) [101-110]",
+  "ImplementationType": null
+}

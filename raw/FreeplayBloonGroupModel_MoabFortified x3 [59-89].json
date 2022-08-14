@@ -1,0 +1,34 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 59,
+      "upperBounds": 89
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "MoabFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_MoabFortified x3 [59-89]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "MoabFortified",
+      "time": 59.9999962,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_MoabFortified x3 [59-89]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "MoabFortified",
+      "time": 119.999992,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_MoabFortified x3 [59-89]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_MoabFortified x3 [59-89]",
+  "ImplementationType": null
+}

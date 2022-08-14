@@ -1,0 +1,83 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 40,
+      "upperBounds": 50
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "RainbowRegrow",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x10 [40-50]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 34.2599335,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x10 [40-50]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 68.51987,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x10 [40-50]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 102.7798,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x10 [40-50]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 137.039734,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x10 [40-50]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 171.299667,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x10 [40-50]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 205.5596,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x10 [40-50]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 239.819534,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x10 [40-50]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 274.079468,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x10 [40-50]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 308.339417,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x10 [40-50]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_RainbowRegrow x10 [40-50]",
+  "ImplementationType": null
+}

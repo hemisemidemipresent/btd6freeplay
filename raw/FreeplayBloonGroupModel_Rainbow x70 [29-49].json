@@ -1,0 +1,503 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 29,
+      "upperBounds": 49
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Rainbow",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 12.4417381,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 24.8834763,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 37.3252144,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 49.7669525,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 62.20869,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 74.65043,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 87.09216,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 99.533905,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 111.975647,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 124.417381,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 136.859116,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 149.300858,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 161.7426,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 174.184326,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 186.626068,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 199.06781,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 211.509552,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 223.9513,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 236.393021,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 248.834763,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 261.2765,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 273.718231,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 286.159973,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 298.6017,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 311.043457,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 323.4852,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 335.926941,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 348.368652,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 360.8104,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 373.252136,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 385.693878,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 398.13562,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 410.577362,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 423.0191,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 435.460846,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 447.9026,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 460.3443,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 472.786041,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 485.227783,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 497.669525,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 510.111267,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 522.553,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 534.994751,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 547.436462,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 559.878235,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 572.319946,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 584.7617,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 597.2034,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 609.645142,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 622.0869,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 634.5286,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 646.9704,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 659.4121,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 671.8539,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 684.2956,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 696.7373,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 709.1791,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 721.6208,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 734.062561,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 746.5043,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 758.946045,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 771.387756,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 783.8295,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 796.27124,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 808.712952,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 821.1547,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 833.596436,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 846.0382,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Rainbow",
+      "time": 858.4799,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Rainbow x70 [29-49]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Rainbow x70 [29-49]",
+  "ImplementationType": null
+}

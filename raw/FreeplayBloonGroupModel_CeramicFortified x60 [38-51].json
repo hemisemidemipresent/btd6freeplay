@@ -1,0 +1,433 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 38,
+      "upperBounds": 51
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "CeramicFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 27.9915237,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 55.9830475,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 83.97457,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 111.966095,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 139.957611,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 167.949142,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 195.940674,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 223.93219,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 251.9237,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 279.915222,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 307.906769,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 335.8983,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 363.8898,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 391.881348,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 419.872864,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 447.86438,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 475.8559,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 503.8474,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 531.8389,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 559.830444,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 587.822,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 615.813538,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 643.805054,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 671.7966,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 699.7881,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 727.7796,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 755.7711,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 783.7627,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 811.7542,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 839.7457,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 867.737244,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 895.72876,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 923.7203,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 951.7118,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 979.7033,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1007.69482,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1035.6864,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1063.67786,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1091.66943,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1119.66089,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1147.65247,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1175.644,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1203.6355,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1231.62708,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1259.61853,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1287.61011,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1315.60156,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1343.59314,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1371.58472,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1399.57617,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1427.56775,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1455.5592,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1483.55078,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1511.54224,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1539.53381,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1567.52539,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1595.51685,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1623.50842,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 1651.49988,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x60 [38-51]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_CeramicFortified x60 [38-51]",
+  "ImplementationType": null
+}

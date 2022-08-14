@@ -1,0 +1,111 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 20,
+      "upperBounds": 34
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "LeadRegrow",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 39.5307655,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 79.06153,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 118.5923,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 158.123062,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 197.653824,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 237.1846,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 276.715363,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 316.246124,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 355.7769,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 395.307648,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 434.8384,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 474.3692,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrow",
+      "time": 513.899963,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrow x14 [20-34]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_LeadRegrow x14 [20-34]",
+  "ImplementationType": null
+}

@@ -1,0 +1,83 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 5,
+      "upperBounds": 15
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Green",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x10 [5-15]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 34.1999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x10 [5-15]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 68.3999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x10 [5-15]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 102.599991,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x10 [5-15]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 136.799988,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x10 [5-15]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 170.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x10 [5-15]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 205.199982,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x10 [5-15]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 239.399979,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x10 [5-15]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 273.599976,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x10 [5-15]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 307.8,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x10 [5-15]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Green x10 [5-15]",
+  "ImplementationType": null
+}

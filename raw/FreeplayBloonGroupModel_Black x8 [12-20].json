@@ -1,0 +1,69 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 12,
+      "upperBounds": 20
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Black",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Black x8 [12-20]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Black",
+      "time": 43.5882339,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Black x8 [12-20]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Black",
+      "time": 87.17647,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Black x8 [12-20]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Black",
+      "time": 130.764709,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Black x8 [12-20]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Black",
+      "time": 174.352936,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Black x8 [12-20]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Black",
+      "time": 217.941162,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Black x8 [12-20]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Black",
+      "time": 261.529419,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Black x8 [12-20]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Black",
+      "time": 305.117645,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Black x8 [12-20]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Black x8 [12-20]",
+  "ImplementationType": null
+}

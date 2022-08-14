@@ -1,0 +1,20 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 81,
+      "upperBounds": 91
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Bfb",
+      "time": 29.9999981,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x1 [81-91]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Bfb x1 [81-91]",
+  "ImplementationType": null
+}

@@ -1,0 +1,27 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 24,
+      "upperBounds": 38
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "ZebraRegrow",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZebraRegrow x2 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZebraRegrow",
+      "time": 102.78,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZebraRegrow x2 [24-38]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_ZebraRegrow x2 [24-38]",
+  "ImplementationType": null
+}

@@ -1,0 +1,27 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 29,
+      "upperBounds": 38
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "RainbowRegrow",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x2 [29-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 119.999992,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x2 [29-38]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_RainbowRegrow x2 [29-38]",
+  "ImplementationType": null
+}

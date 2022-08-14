@@ -1,0 +1,76 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 88,
+      "upperBounds": 99
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "DdtCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ddt x9 [88-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtCamo",
+      "time": 44.9999962,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ddt x9 [88-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtCamo",
+      "time": 89.99999,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ddt x9 [88-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtCamo",
+      "time": 134.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ddt x9 [88-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtCamo",
+      "time": 179.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ddt x9 [88-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtCamo",
+      "time": 224.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ddt x9 [88-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtCamo",
+      "time": 269.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ddt x9 [88-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtCamo",
+      "time": 314.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ddt x9 [88-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtCamo",
+      "time": 359.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ddt x9 [88-99]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Ddt x9 [88-99]",
+  "ImplementationType": null
+}

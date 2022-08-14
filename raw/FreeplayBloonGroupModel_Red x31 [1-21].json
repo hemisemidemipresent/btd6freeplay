@@ -1,0 +1,230 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 1,
+      "upperBounds": 21
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Red",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 34.26,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 68.52,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 102.78,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 137.04,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 171.299988,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 205.56,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 239.819992,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 274.08,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 308.34,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 342.599976,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 376.86,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 411.12,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 445.379974,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 479.639984,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 513.899963,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 548.16,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 582.42,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 616.68,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 650.939941,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 685.199951,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 719.459961,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 753.72,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 787.98,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 822.24,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 856.499939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 890.759949,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 925.019958,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 959.279968,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 993.54,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 1027.79993,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x31 [1-21]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Red x31 [1-21]",
+  "ImplementationType": null
+}

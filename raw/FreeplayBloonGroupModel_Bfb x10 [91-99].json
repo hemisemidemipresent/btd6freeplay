@@ -1,0 +1,83 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 91,
+      "upperBounds": 99
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Bfb",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x10 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 99.99999,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x10 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 199.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x10 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 299.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x10 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 399.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x10 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 499.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x10 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 599.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x10 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 699.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x10 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 799.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x10 [91-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 899.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x10 [91-99]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Bfb x10 [91-99]",
+  "ImplementationType": null
+}

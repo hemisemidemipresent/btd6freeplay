@@ -1,0 +1,83 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 24,
+      "upperBounds": 34
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "ZebraRegrow",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZebraRegrow x10 [24-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZebraRegrow",
+      "time": 26.6666641,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZebraRegrow x10 [24-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZebraRegrow",
+      "time": 53.33333,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZebraRegrow x10 [24-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZebraRegrow",
+      "time": 79.99999,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZebraRegrow x10 [24-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZebraRegrow",
+      "time": 106.666656,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZebraRegrow x10 [24-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZebraRegrow",
+      "time": 133.333313,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZebraRegrow x10 [24-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZebraRegrow",
+      "time": 159.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZebraRegrow x10 [24-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZebraRegrow",
+      "time": 186.666656,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZebraRegrow x10 [24-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZebraRegrow",
+      "time": 213.333313,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZebraRegrow x10 [24-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZebraRegrow",
+      "time": 239.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZebraRegrow x10 [24-34]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_ZebraRegrow x10 [24-34]",
+  "ImplementationType": null
+}

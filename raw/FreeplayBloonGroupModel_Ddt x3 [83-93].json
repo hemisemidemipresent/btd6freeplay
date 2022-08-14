@@ -1,0 +1,34 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 83,
+      "upperBounds": 93
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "DdtCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ddt x3 [83-93]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtCamo",
+      "time": 149.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ddt x3 [83-93]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "DdtCamo",
+      "time": 299.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ddt x3 [83-93]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Ddt x3 [83-93]",
+  "ImplementationType": null
+}

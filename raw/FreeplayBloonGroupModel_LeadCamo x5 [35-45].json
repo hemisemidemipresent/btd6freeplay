@@ -1,0 +1,363 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 35,
+      "upperBounds": 45
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "LeadCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 9.123624,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 18.2472477,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 27.3708725,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 36.4944954,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 45.61812,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 54.741745,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 63.8653679,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 72.98899,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 82.11262,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 91.23624,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 100.359863,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 109.48349,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 118.607109,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 127.730736,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 136.854355,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 145.977982,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 155.101608,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 164.225235,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 173.348846,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 182.472473,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 191.5961,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 200.719727,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 209.843353,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 218.96698,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 228.090591,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 237.214218,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 246.337845,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 255.461472,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 264.585083,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 273.7087,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 282.832336,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 291.955963,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 301.0796,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 310.203217,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 319.326843,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 328.45047,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 337.5741,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 346.6977,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 355.82132,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 364.944946,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 374.068573,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 383.1922,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 392.315826,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 401.439453,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 410.56308,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 419.6867,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 428.810333,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 437.93396,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadCamo",
+      "time": 447.057556,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadCamo x5 [35-45]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_LeadCamo x5 [35-45]",
+  "ImplementationType": null
+}

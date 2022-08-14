@@ -1,0 +1,153 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 20,
+      "upperBounds": 30
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "RedCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RedCamo",
+      "time": 15.7894716,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RedCamo",
+      "time": 31.5789433,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RedCamo",
+      "time": 47.3684158,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RedCamo",
+      "time": 63.1578865,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RedCamo",
+      "time": 78.94736,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RedCamo",
+      "time": 94.73683,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RedCamo",
+      "time": 110.5263,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RedCamo",
+      "time": 126.315773,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RedCamo",
+      "time": 142.10524,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RedCamo",
+      "time": 157.894714,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RedCamo",
+      "time": 173.684189,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RedCamo",
+      "time": 189.473663,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RedCamo",
+      "time": 205.263138,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RedCamo",
+      "time": 221.0526,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RedCamo",
+      "time": 236.842072,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RedCamo",
+      "time": 252.631546,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RedCamo",
+      "time": 268.421021,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RedCamo",
+      "time": 284.21048,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RedCamo",
+      "time": 299.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RedCamo x20 [20-30]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_RedCamo x20 [20-30]",
+  "ImplementationType": null
+}

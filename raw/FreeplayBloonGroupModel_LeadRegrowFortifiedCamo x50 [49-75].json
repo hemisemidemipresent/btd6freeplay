@@ -1,0 +1,363 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 49,
+      "upperBounds": 75
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 12.2448969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 24.4897938,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 36.73469,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 48.9795876,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 61.2244835,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 73.46938,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 85.71428,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 97.9591751,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 110.204071,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 122.448967,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 134.693863,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 146.938766,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 159.183655,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 171.428558,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 183.673447,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 195.91835,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 208.163254,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 220.408142,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 232.653046,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 244.897934,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 257.142822,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 269.387726,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 281.632629,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 293.877533,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 306.122437,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 318.3673,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 330.6122,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 342.857117,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 355.10202,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 367.3469,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 379.5918,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 391.8367,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 404.0816,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 416.3265,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 428.571381,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 440.816284,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 453.0612,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 465.3061,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 477.550964,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 489.795868,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 502.040771,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 514.285645,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 526.5306,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 538.775452,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 551.0204,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 563.265259,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 575.510132,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 587.755066,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadRegrowFortifiedCamo",
+      "time": 599.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_LeadRegrowFortifiedCamo x50 [49-75]",
+  "ImplementationType": null
+}

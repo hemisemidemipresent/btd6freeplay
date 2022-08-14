@@ -1,0 +1,83 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 24,
+      "upperBounds": 35
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "GreenRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_GreenRegrowCamo x10 [24-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "GreenRegrowCamo",
+      "time": 8.972221,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_GreenRegrowCamo x10 [24-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "GreenRegrowCamo",
+      "time": 17.9444427,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_GreenRegrowCamo x10 [24-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "GreenRegrowCamo",
+      "time": 26.9166641,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_GreenRegrowCamo x10 [24-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "GreenRegrowCamo",
+      "time": 35.8888855,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_GreenRegrowCamo x10 [24-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "GreenRegrowCamo",
+      "time": 44.8611069,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_GreenRegrowCamo x10 [24-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "GreenRegrowCamo",
+      "time": 53.83333,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_GreenRegrowCamo x10 [24-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "GreenRegrowCamo",
+      "time": 62.80555,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_GreenRegrowCamo x10 [24-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "GreenRegrowCamo",
+      "time": 71.77777,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_GreenRegrowCamo x10 [24-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "GreenRegrowCamo",
+      "time": 80.74999,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_GreenRegrowCamo x10 [24-35]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_GreenRegrowCamo x10 [24-35]",
+  "ImplementationType": null
+}

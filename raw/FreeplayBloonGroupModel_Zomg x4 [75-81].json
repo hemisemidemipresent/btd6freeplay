@@ -1,0 +1,41 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 75,
+      "upperBounds": 81
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Zomg",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x4 [75-81]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 199.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x4 [75-81]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 399.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x4 [75-81]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 599.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x4 [75-81]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Zomg x4 [75-81]",
+  "ImplementationType": null
+}

@@ -1,0 +1,27 @@
+{
+  "score": 2.0,
+  "bounds": [
+    {
+      "lowerBounds": 461,
+      "upperBounds": 9999
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Guaranteed BadFortified x2 (R9999) [461-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 59.9999962,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Guaranteed BadFortified x2 (R9999) [461-9999]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Guaranteed BadFortified x2 (R9999) [461-9999]",
+  "ImplementationType": null
+}

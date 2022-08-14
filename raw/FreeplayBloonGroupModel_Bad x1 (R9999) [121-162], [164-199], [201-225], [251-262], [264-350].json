@@ -1,0 +1,36 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 121,
+      "upperBounds": 162
+    },
+    {
+      "lowerBounds": 164,
+      "upperBounds": 199
+    },
+    {
+      "lowerBounds": 201,
+      "upperBounds": 225
+    },
+    {
+      "lowerBounds": 251,
+      "upperBounds": 262
+    },
+    {
+      "lowerBounds": 264,
+      "upperBounds": 350
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Bad",
+      "time": 149.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bad x1 (R9999) [121-162], [164-199], [201-225], [251-262], [264-350]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Bad x1 (R9999) [121-162], [164-199], [201-225], [251-262], [264-350]",
+  "ImplementationType": null
+}

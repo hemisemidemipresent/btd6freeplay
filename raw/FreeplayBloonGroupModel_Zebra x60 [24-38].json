@@ -1,0 +1,433 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 24,
+      "upperBounds": 38
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Zebra",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 27.822031,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 55.644062,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 83.466095,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 111.288124,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 139.110153,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 166.93219,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 194.754211,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 222.576248,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 250.398285,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 278.2203,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 306.042328,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 333.86438,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 361.6864,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 389.508423,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 417.330475,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 445.1525,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 472.974518,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 500.79657,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 528.6186,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 556.4406,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 584.262634,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 612.084656,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 639.906738,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 667.72876,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 695.5508,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 723.3728,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 751.1948,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 779.016846,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 806.8389,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 834.66095,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 862.483,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 890.305,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 918.127,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 945.949036,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 973.771057,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1001.59314,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1029.41516,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1057.23718,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1085.0592,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1112.88123,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1140.70325,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1168.52527,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1196.34729,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1224.16931,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1251.99146,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1279.81348,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1307.6355,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1335.45752,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1363.27954,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1391.10156,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1418.92358,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1446.74561,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1474.56763,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1502.38965,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1530.21167,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1558.03369,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1585.85571,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1613.67786,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 1641.49988,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x60 [24-38]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Zebra x60 [24-38]",
+  "ImplementationType": null
+}

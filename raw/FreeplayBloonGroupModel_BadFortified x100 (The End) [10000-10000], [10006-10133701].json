@@ -1,0 +1,717 @@
+{
+  "score": 1.0,
+  "bounds": [
+    {
+      "lowerBounds": 10000,
+      "upperBounds": 10000
+    },
+    {
+      "lowerBounds": 10006,
+      "upperBounds": 10133701
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_BadFortified x100 (The End) [10000-10000], [10006-10133701]",
+  "ImplementationType": null
+}

@@ -1,0 +1,83 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 121,
+      "upperBounds": 130
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "ZomgFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZomgFortified x10 [121-130]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZomgFortified",
+      "time": 159.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZomgFortified x10 [121-130]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZomgFortified",
+      "time": 319.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZomgFortified x10 [121-130]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZomgFortified",
+      "time": 479.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZomgFortified x10 [121-130]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZomgFortified",
+      "time": 639.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZomgFortified x10 [121-130]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZomgFortified",
+      "time": 799.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZomgFortified x10 [121-130]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZomgFortified",
+      "time": 959.9999,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZomgFortified x10 [121-130]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZomgFortified",
+      "time": 1119.99988,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZomgFortified x10 [121-130]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZomgFortified",
+      "time": 1279.99988,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZomgFortified x10 [121-130]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "ZomgFortified",
+      "time": 1439.99988,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_ZomgFortified x10 [121-130]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_ZomgFortified x10 [121-130]",
+  "ImplementationType": null
+}

@@ -1,0 +1,108 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 161,
+      "upperBounds": 162
+    },
+    {
+      "lowerBounds": 164,
+      "upperBounds": 199
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Zomg",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x13 [161-162], [164-199]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 69.99999,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x13 [161-162], [164-199]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 139.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x13 [161-162], [164-199]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 209.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x13 [161-162], [164-199]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 279.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x13 [161-162], [164-199]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 349.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x13 [161-162], [164-199]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 419.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x13 [161-162], [164-199]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 489.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x13 [161-162], [164-199]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 559.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x13 [161-162], [164-199]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 629.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x13 [161-162], [164-199]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 699.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x13 [161-162], [164-199]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 769.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x13 [161-162], [164-199]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zomg",
+      "time": 839.9999,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zomg x13 [161-162], [164-199]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Zomg x13 [161-162], [164-199]",
+  "ImplementationType": null
+}

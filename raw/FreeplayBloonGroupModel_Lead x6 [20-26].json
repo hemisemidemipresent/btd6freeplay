@@ -1,0 +1,55 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 20,
+      "upperBounds": 26
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Lead",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x6 [20-26]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Lead",
+      "time": 59.9999924,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x6 [20-26]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Lead",
+      "time": 119.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x6 [20-26]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Lead",
+      "time": 179.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x6 [20-26]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Lead",
+      "time": 239.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x6 [20-26]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Lead",
+      "time": 299.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x6 [20-26]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Lead x6 [20-26]",
+  "ImplementationType": null
+}

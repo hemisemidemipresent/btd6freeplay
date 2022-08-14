@@ -1,0 +1,853 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 30,
+      "upperBounds": 45
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 19.1596642,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 38.31933,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 57.4789925,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 76.63866,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 95.7983246,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 114.957985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 134.117645,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 153.277313,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 172.436981,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 191.596649,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 210.7563,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 229.91597,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 249.075638,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 268.2353,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 287.394958,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 306.554626,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 325.7143,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 344.873962,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 364.03363,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 383.1933,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 402.352936,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 421.5126,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 440.672272,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 459.83194,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 478.9916,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 498.151276,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 517.3109,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 536.4706,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 555.630249,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 574.7899,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 593.9496,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 613.109253,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 632.2689,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 651.4286,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 670.588257,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 689.7479,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 708.9076,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 728.067261,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 747.2269,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 766.3866,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 785.5462,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 804.7059,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 823.86554,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 843.0252,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 862.1849,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 881.344543,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 900.5042,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 919.6639,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 938.823547,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 957.9832,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 977.1429,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 996.302551,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1015.46222,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1034.62183,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1053.78149,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1072.94116,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1092.10083,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1111.2605,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1130.42017,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1149.57983,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1168.7395,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1187.89917,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1207.05884,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1226.21851,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1245.37817,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1264.53784,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1283.69751,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1302.85718,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1322.01685,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1341.17651,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1360.33618,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1379.49585,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1398.65552,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1417.81519,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1436.97485,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1456.13452,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1475.29419,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1494.45386,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1513.61353,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1532.77319,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1551.93274,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1571.09241,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1590.25208,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1609.41174,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1628.57141,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1647.73108,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1666.89075,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1686.05042,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1705.21008,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1724.36975,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1743.52942,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1762.68909,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1781.84875,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1801.00842,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1820.16809,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1839.32776,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1858.48743,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1877.64709,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1896.80676,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1915.96643,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1935.1261,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1954.28577,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1973.44543,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 1992.6051,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 2011.76477,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 2030.92444,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 2050.084,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 2069.24365,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 2088.40332,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 2107.563,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 2126.72266,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 2145.88232,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 2165.042,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 2184.20166,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 2203.36133,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 2222.521,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 2241.68066,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 2260.84033,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteRegrowCamo",
+      "time": 2280.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_WhiteRegrowCamo x120 [30-45]",
+  "ImplementationType": null
+}

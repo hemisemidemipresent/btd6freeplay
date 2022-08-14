@@ -1,0 +1,101 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 201,
+      "upperBounds": 262
+    },
+    {
+      "lowerBounds": 264,
+      "upperBounds": 9999
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Bfb",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 8.181817,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 16.3636341,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 24.5454521,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 32.72727,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 40.9090843,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 49.0909042,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 57.27272,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 65.45454,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 73.63635,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 81.81817,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 89.9999847,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x12 [201-262], [264-9999]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Bfb x12 [201-262], [264-9999]",
+  "ImplementationType": null
+}

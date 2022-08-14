@@ -1,0 +1,55 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 33,
+      "upperBounds": 40
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "RainbowRegrow",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x6 [33-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 59.9999924,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x6 [33-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 119.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x6 [33-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 179.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x6 [33-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 239.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x6 [33-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrow",
+      "time": 299.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrow x6 [33-40]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_RainbowRegrow x6 [33-40]",
+  "ImplementationType": null
+}

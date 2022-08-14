@@ -1,0 +1,279 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 45,
+      "upperBounds": 55
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "CeramicRegrow",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 35.18594,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 70.37188,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 105.557816,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 140.743759,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 175.9297,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 211.115631,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 246.301575,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 281.487518,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 316.673462,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 351.8594,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 387.045349,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 422.231262,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 457.4172,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 492.603149,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 527.7891,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 562.975037,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 598.16095,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 633.3469,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 668.532837,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 703.7188,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 738.9047,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 774.0907,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 809.2766,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 844.4625,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 879.6485,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 914.8344,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 950.0204,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 985.2063,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 1020.39227,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 1055.57825,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 1090.76416,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 1125.95007,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 1161.136,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 1196.3219,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 1231.50793,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 1266.69385,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrow",
+      "time": 1301.87976,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrow x38 [45-55]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_CeramicRegrow x38 [45-55]",
+  "ImplementationType": null
+}

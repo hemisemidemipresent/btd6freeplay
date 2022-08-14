@@ -1,0 +1,745 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 111,
+      "upperBounds": 120
+    },
+    {
+      "lowerBounds": 163,
+      "upperBounds": 163
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 2.912621,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 5.825242,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 8.737864,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 11.6504841,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 14.5631046,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 17.4757271,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 20.3883476,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 23.3009682,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 26.2135887,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 29.12621,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 32.03883,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 34.9514542,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 37.8640747,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 40.7766953,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 43.6893158,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 46.6019363,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 49.5145569,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 52.4271774,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 55.339798,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 58.25242,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 61.1650429,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 64.07766,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 66.99028,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 69.90291,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 72.81553,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 75.72815,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 78.64077,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 81.55339,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 84.46601,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 87.37863,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 90.29125,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 93.20387,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 96.11649,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 99.02911,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 101.941734,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 104.854355,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 107.766975,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 110.679596,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 113.592216,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 116.504837,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 119.417465,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 122.330086,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 125.242706,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 128.155319,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 131.067947,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 133.98056,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 136.893188,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 139.805817,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 142.71843,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 145.631058,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 148.543671,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 151.4563,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 154.368912,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 157.28154,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 160.194153,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 163.106781,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 166.0194,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 168.932022,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 171.844635,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 174.757263,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 177.669876,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 180.5825,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 183.495117,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 186.407745,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 189.320374,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 192.232986,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 195.145615,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 198.058228,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 200.970856,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 203.883469,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 206.7961,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 209.70871,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 212.621338,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 215.533951,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 218.446579,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 221.359192,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 224.27182,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 227.184433,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 230.097061,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 233.009674,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 235.9223,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 238.83493,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 241.747543,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 244.660172,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 247.572784,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 250.485413,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 253.398026,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 256.310638,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 259.223267,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 262.1359,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 265.048523,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 267.961121,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 270.873749,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 273.786377,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 276.699,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 279.611633,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 282.524231,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 285.436859,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 288.3495,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 291.262115,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 294.1747,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 297.087341,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicRegrowFortifiedCamo",
+      "time": 299.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_CeramicRegrowFortifiedCamo x104 (R120) [111-120], [163-163]",
+  "ImplementationType": null
+}

@@ -1,0 +1,293 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 15,
+      "upperBounds": 40
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "PinkRegrow",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 23.0769215,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 46.1538429,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 69.23077,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 92.3076859,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 115.384605,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 138.461533,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 161.538452,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 184.615372,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 207.692291,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 230.769211,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 253.84613,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 276.923065,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 299.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 323.0769,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 346.1538,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 369.230743,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 392.307678,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 415.384583,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 438.461517,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 461.538422,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 484.615356,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 507.692261,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 530.769165,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 553.8461,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 576.923035,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 599.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 623.0769,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 646.1538,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 669.2307,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 692.3076,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 715.3846,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 738.4615,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 761.5384,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 784.615356,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 807.692261,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 830.769165,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 853.846069,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 876.923035,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkRegrow",
+      "time": 899.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkRegrow x40 [15-40]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_PinkRegrow x40 [15-40]",
+  "ImplementationType": null
+}

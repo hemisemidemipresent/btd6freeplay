@@ -1,0 +1,20 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 46,
+      "upperBounds": 99
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "MoabFortified",
+      "time": 59.9999962,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_MoabFortified x1 [46-99]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_MoabFortified x1 [46-99]",
+  "ImplementationType": null
+}

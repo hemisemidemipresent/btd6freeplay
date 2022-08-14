@@ -1,0 +1,111 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 20,
+      "upperBounds": 34
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Lead",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Lead",
+      "time": 34.2599945,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Lead",
+      "time": 68.51999,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Lead",
+      "time": 102.779984,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Lead",
+      "time": 137.039978,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Lead",
+      "time": 171.299973,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Lead",
+      "time": 205.559967,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Lead",
+      "time": 239.819962,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Lead",
+      "time": 274.079956,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Lead",
+      "time": 308.339966,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Lead",
+      "time": 342.599945,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Lead",
+      "time": 376.859924,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Lead",
+      "time": 411.119934,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x14 [20-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Lead",
+      "time": 445.379944,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Lead x14 [20-34]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Lead x14 [20-34]",
+  "ImplementationType": null
+}

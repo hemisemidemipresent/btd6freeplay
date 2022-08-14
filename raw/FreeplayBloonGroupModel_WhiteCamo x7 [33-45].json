@@ -1,0 +1,62 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 33,
+      "upperBounds": 45
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "WhiteCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteCamo x7 [33-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteCamo",
+      "time": 15.916667,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteCamo x7 [33-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteCamo",
+      "time": 31.833334,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteCamo x7 [33-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteCamo",
+      "time": 47.75,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteCamo x7 [33-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteCamo",
+      "time": 63.6666679,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteCamo x7 [33-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteCamo",
+      "time": 79.5833359,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteCamo x7 [33-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "WhiteCamo",
+      "time": 95.5,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_WhiteCamo x7 [33-45]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_WhiteCamo x7 [33-45]",
+  "ImplementationType": null
+}

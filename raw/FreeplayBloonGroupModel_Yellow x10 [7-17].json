@@ -1,0 +1,83 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 7,
+      "upperBounds": 17
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Yellow",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Yellow x10 [7-17]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Yellow",
+      "time": 79.99999,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Yellow x10 [7-17]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Yellow",
+      "time": 159.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Yellow x10 [7-17]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Yellow",
+      "time": 239.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Yellow x10 [7-17]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Yellow",
+      "time": 319.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Yellow x10 [7-17]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Yellow",
+      "time": 399.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Yellow x10 [7-17]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Yellow",
+      "time": 479.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Yellow x10 [7-17]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Yellow",
+      "time": 559.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Yellow x10 [7-17]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Yellow",
+      "time": 639.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Yellow x10 [7-17]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Yellow",
+      "time": 719.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Yellow x10 [7-17]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Yellow x10 [7-17]",
+  "ImplementationType": null
+}

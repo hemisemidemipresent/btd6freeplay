@@ -1,0 +1,293 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 25,
+      "upperBounds": 65
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "LeadFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 25.4753685,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 50.950737,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 76.4261,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 101.901474,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 127.376846,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 152.8522,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 178.327576,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 203.802948,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 229.27832,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 254.7537,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 280.229065,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 305.7044,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 331.179779,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 356.655151,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 382.130524,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 407.6059,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 433.081268,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 458.556641,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 484.032,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 509.5074,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 534.9827,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 560.4581,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 585.9335,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 611.4088,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 636.8842,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 662.359558,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 687.834961,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 713.3103,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 738.7857,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 764.261047,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 789.73645,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 815.2118,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 840.687134,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 866.162537,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 891.6379,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 917.1133,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 942.5886,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 968.064,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "LeadFortified",
+      "time": 993.539368,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_LeadFortified x40 [25-65]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_LeadFortified x40 [25-65]",
+  "ImplementationType": null
+}

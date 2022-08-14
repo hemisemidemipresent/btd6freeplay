@@ -1,0 +1,118 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 2,
+      "upperBounds": 16
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Blue",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 33.85714,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 67.71428,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 101.571419,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 135.428558,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 169.2857,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 203.142838,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 236.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 270.857117,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 304.714264,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 338.5714,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 372.428528,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 406.285675,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 440.142822,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 473.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 [2-16]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Blue x15 [2-16]",
+  "ImplementationType": null
+}

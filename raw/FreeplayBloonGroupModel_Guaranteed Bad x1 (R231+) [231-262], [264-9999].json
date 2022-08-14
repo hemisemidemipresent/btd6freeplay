@@ -1,0 +1,24 @@
+{
+  "score": 1.0,
+  "bounds": [
+    {
+      "lowerBounds": 231,
+      "upperBounds": 262
+    },
+    {
+      "lowerBounds": 264,
+      "upperBounds": 9999
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Bad",
+      "time": 29.9999981,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Guaranteed Bad x1 (R231+) [231-262], [264-9999]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Guaranteed Bad x1 (R231+) [231-262], [264-9999]",
+  "ImplementationType": null
+}

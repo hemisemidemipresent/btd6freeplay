@@ -1,0 +1,153 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 86,
+      "upperBounds": 99
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Bfb",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 37.8947334,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 75.78947,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 113.684204,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 151.578934,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 189.473663,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 227.368408,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 265.263123,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 303.157867,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 341.0526,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 378.947327,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 416.842072,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 454.736816,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 492.631531,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 530.526245,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 568.421,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 606.315735,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 644.210449,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 682.1052,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Bfb",
+      "time": 719.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Bfb x20 [86-99]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Bfb x20 [86-99]",
+  "ImplementationType": null
+}

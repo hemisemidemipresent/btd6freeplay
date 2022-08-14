@@ -1,0 +1,363 @@
+{
+  "score": 5075.99854,
+  "bounds": [
+    {
+      "lowerBounds": 80,
+      "upperBounds": 99
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "RainbowRegrowCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_RainbowRegrowCamo x50 [80-99]",
+  "ImplementationType": null
+}

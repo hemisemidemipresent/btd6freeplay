@@ -1,0 +1,20 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 41,
+      "upperBounds": 61
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Moab",
+      "time": 119.999992,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x1 [41-61]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Moab x1 [41-61]",
+  "ImplementationType": null
+}

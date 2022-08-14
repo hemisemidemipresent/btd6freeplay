@@ -1,0 +1,20 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 19,
+      "upperBounds": 25
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "GreenCamo",
+      "time": 29.9999981,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_GreenCamo x1 [19-25]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_GreenCamo x1 [19-25]",
+  "ImplementationType": null
+}

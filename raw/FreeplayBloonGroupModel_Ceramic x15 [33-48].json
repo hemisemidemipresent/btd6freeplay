@@ -1,0 +1,118 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 33,
+      "upperBounds": 48
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Ceramic",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ceramic x15 [33-48]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Ceramic",
+      "time": 3.89284277,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ceramic x15 [33-48]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Ceramic",
+      "time": 7.78568554,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ceramic x15 [33-48]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Ceramic",
+      "time": 11.6785278,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ceramic x15 [33-48]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Ceramic",
+      "time": 15.5713711,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ceramic x15 [33-48]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Ceramic",
+      "time": 19.4642143,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ceramic x15 [33-48]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Ceramic",
+      "time": 23.3570557,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ceramic x15 [33-48]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Ceramic",
+      "time": 27.2498989,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ceramic x15 [33-48]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Ceramic",
+      "time": 31.1427422,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ceramic x15 [33-48]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Ceramic",
+      "time": 35.0355835,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ceramic x15 [33-48]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Ceramic",
+      "time": 38.92843,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ceramic x15 [33-48]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Ceramic",
+      "time": 42.82127,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ceramic x15 [33-48]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Ceramic",
+      "time": 46.71411,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ceramic x15 [33-48]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Ceramic",
+      "time": 50.6069565,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ceramic x15 [33-48]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Ceramic",
+      "time": 54.4997978,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Ceramic x15 [33-48]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Ceramic x15 [33-48]",
+  "ImplementationType": null
+}

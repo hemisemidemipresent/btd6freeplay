@@ -1,0 +1,188 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 16,
+      "upperBounds": 35
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "White",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 25.083334,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 50.1666679,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 75.25,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 100.333336,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 125.416672,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 150.5,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 175.583344,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 200.666672,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 225.75,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 250.833344,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 275.9167,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 301.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 326.083344,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 351.1667,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 376.25,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 401.333344,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 426.4167,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 451.5,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 476.583344,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 501.6667,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 526.75,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 551.8334,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 576.9167,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "White",
+      "time": 602.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_White x25 [16-35]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_White x25 [16-35]",
+  "ImplementationType": null
+}

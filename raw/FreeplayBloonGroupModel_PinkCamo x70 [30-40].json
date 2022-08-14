@@ -1,0 +1,503 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 30,
+      "upperBounds": 40
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "PinkCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 15.7789822,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 31.5579643,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 47.3369446,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 63.11593,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 78.89491,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 94.67389,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 110.452873,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 126.231857,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 142.010834,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 157.789825,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 173.5688,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 189.347778,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 205.12677,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 220.905746,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 236.684738,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 252.463715,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 268.2427,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 284.021667,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 299.800659,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 315.579651,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 331.3586,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 347.1376,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 362.9166,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 378.695557,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 394.474548,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 410.25354,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 426.032532,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 441.8115,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 457.590485,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 473.369476,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 489.148438,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 504.927429,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 520.7064,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 536.4854,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 552.2644,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 568.043335,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 583.8223,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 599.6013,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 615.3803,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 631.1593,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 646.9383,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 662.7172,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 678.4962,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 694.2752,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 710.0542,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 725.8332,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 741.6122,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 757.3911,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 773.1701,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 788.9491,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 804.7281,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 820.5071,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 836.2861,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 852.065063,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 867.844,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 883.623,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 899.402,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 915.180969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 930.959961,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 946.738953,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 962.5179,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 978.2969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 994.075867,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 1009.85486,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 1025.63379,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 1041.41284,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 1057.19177,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 1072.97083,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PinkCamo",
+      "time": 1088.74976,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PinkCamo x70 [30-40]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_PinkCamo x70 [30-40]",
+  "ImplementationType": null
+}

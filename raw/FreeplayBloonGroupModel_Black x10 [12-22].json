@@ -1,0 +1,83 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 12,
+      "upperBounds": 22
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Black",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Black x10 [12-22]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Black",
+      "time": 34.2599945,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Black x10 [12-22]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Black",
+      "time": 68.51999,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Black x10 [12-22]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Black",
+      "time": 102.779984,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Black x10 [12-22]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Black",
+      "time": 137.039978,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Black x10 [12-22]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Black",
+      "time": 171.299973,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Black x10 [12-22]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Black",
+      "time": 205.559967,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Black x10 [12-22]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Black",
+      "time": 239.819962,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Black x10 [12-22]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Black",
+      "time": 274.079956,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Black x10 [12-22]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Black",
+      "time": 308.339966,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Black x10 [12-22]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Black x10 [12-22]",
+  "ImplementationType": null
+}

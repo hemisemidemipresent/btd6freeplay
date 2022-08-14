@@ -1,0 +1,34 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 38,
+      "upperBounds": 41
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "CeramicFortified",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x3 [38-41]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 119.999992,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x3 [38-41]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "CeramicFortified",
+      "time": 239.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_CeramicFortified x3 [38-41]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_CeramicFortified x3 [38-41]",
+  "ImplementationType": null
+}

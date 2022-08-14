@@ -1,0 +1,83 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 2,
+      "upperBounds": 16
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Blue",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 Long [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 93.33333,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 Long [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 186.666656,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 Long [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 280.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 Long [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 373.3333,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 Long [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 466.666626,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 Long [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 560.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 Long [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 653.3333,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 Long [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 746.6666,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 Long [2-16]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 839.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x15 Long [2-16]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Blue x15 Long [2-16]",
+  "ImplementationType": null
+}

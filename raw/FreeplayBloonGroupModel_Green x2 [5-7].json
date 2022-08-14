@@ -1,0 +1,27 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 5,
+      "upperBounds": 7
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Green",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x2 [5-7]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 34.1999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x2 [5-7]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Green x2 [5-7]",
+  "ImplementationType": null
+}

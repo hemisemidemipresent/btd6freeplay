@@ -1,0 +1,3898 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 101,
+      "upperBounds": 120
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.0108303251,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.02166065,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.0324909762,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.0433213,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.0541516244,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.06498195,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.07581227,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.0866426,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.09747293,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.108303249,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.119133577,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.1299639,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.140794232,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.151624545,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.162454873,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.1732852,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.184115529,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.194945857,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.20577617,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.2166065,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.227436826,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.238267154,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.249097481,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.2599278,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.270758122,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.281588465,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.292418778,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.3032491,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.314079434,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.324909747,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.3357401,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.3465704,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.357400715,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.368231058,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.379061371,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.3898917,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.400722027,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.41155234,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.422382683,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.433213,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.444043338,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.454873651,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.465703964,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.4765343,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.48736462,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.498194963,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.5090253,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.5198556,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.5306859,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.541516244,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.5523466,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.56317693,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.5740072,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.584837556,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.5956679,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.6064982,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.6173285,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.628158867,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.638989151,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.6498195,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.660649836,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.6714802,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.682310462,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.6931408,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.703971148,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.714801431,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.7256318,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.7364621,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.747292459,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.758122742,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.7689531,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.7797834,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.7906137,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.801444054,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.8122744,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.8231047,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.833935,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.844765365,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.8555957,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.866426,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.877256334,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.8880867,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.89891696,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.9097473,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.920577645,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.9314079,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.9422383,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.9530686,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.963898957,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.97472924,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.9855596,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 0.9963899,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.00722027,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.01805055,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.02888083,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.03971124,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.05054152,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.0613718,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.07220221,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.08303249,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.09386289,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.10469317,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.11552346,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.12635386,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.13718414,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.14801443,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.15884483,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.16967511,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.18050539,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.1913358,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.20216608,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.21299636,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.22382677,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.234657,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.24548733,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.25631773,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.267148,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.2779783,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.2888087,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.299639,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.31046939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.32129967,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.33213,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.34296036,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.35379064,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.36462092,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.37545133,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.38628161,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.39711189,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.4079423,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.41877258,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.42960286,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.44043326,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.45126355,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.46209383,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.47292423,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.48375452,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.49458492,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.5054152,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.51624548,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.52707589,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.53790617,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.54873645,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.55956686,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.57039714,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.58122742,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.59205782,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.60288811,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.61371839,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.62454879,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.63537908,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.64620936,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.65703976,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.66787,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.67870033,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.68953073,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.700361,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.71119142,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.7220217,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.732852,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.74368238,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.75451267,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.765343,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.77617335,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.78700364,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.79783392,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.80866432,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.81949461,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.83032489,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.84115529,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.85198557,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.86281586,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.87364626,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.88447654,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.895307,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.90613723,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.91696751,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.92779791,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.9386282,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.94945848,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.96028888,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.97111917,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.98194945,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 1.99277985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.00361013,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.01444054,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.0252707,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.036101,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.04693151,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.05776167,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.068592,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.07942247,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.09025264,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.101083,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.11191344,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.12274361,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.133574,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.14440441,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.15523458,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.166065,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.17689538,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.18772578,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.198556,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.20938635,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.22021675,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.231047,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.24187732,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.25270772,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.263538,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.27436829,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.28519869,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.29602885,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.30685925,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.31768966,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.32851982,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.33935022,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.35018063,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.36101079,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.37184119,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.38267159,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.39350176,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.40433216,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.41516256,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.42599273,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.43682313,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.44765353,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.4584837,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.469314,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.4801445,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.49097466,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.501805,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.51263547,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.52346563,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.534296,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.54512644,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.5559566,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.566787,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.57761741,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.58844781,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.599278,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.61010838,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.62093878,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.631769,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.64259934,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.65342975,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.66426,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.67509031,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.68592072,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.69675088,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.70758128,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.71841168,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.72924185,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.74007225,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.75090265,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.76173282,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.77256322,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.78339362,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.79422379,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.80505419,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.81588459,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.82671475,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.83754516,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.84837556,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.85920572,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.87003613,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.88086653,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.89169669,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.902527,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.9133575,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.92418766,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.935018,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.94584846,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.95667863,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.967509,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.97833943,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 2.98916984,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.0108304,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.0216608,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.032491,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.04332137,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.05415177,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.064982,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.07581234,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.08664274,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.097473,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.10830331,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.11913371,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.12996387,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.14079428,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.15162468,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.16245484,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.17328525,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.18411565,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.19494581,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.20577621,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.21660662,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.22743678,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.23826718,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.24909759,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.25992775,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.27075815,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.28158855,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.29241872,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.30324912,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.31407952,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.32490969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.33574,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.34657049,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.35740066,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.368231,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.37906146,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.38989186,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.400722,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.41155243,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.42238283,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.433213,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.4440434,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.4548738,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.465704,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.47653437,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.48736477,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.498195,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.50902534,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.51985574,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.530686,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.5415163,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.55234671,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.56317687,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.57400727,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.58483768,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.59566784,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.60649824,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.61732864,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.62815881,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.63898921,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.64981961,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.66064978,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.67148018,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.68231058,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.69314075,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.70397115,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.71480155,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.72563171,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.736462,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.74729252,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.75812268,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.768953,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.77978349,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.790614,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.801444,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.81227446,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.82310486,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.833935,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.84476542,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.85559583,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.866426,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.87725639,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.8880868,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.898917,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.90974736,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.92057776,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.931408,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.94223833,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.95306873,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.963899,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.9747293,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.9855597,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 3.99638987,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.00722027,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.01805067,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.028881,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.03971148,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.0505414,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.061372,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.072202,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.08303261,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.093863,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.10469341,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.11552334,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.12635374,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.137184,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.14801455,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.158845,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.16967535,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.18050528,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.19133568,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.202166,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.21299648,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.223827,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.23465729,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.245487,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.25631762,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.267148,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.27797842,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.288809,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.299639,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.310469,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.32129955,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.33213,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.34296036,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.35379076,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.364621,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.37545156,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.38628149,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.397112,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.4079423,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.4187727,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.429603,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.4404335,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.45126343,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.462094,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.472924,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.48375463,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.494585,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.50541544,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.51624537,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.527076,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.537906,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.54873657,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.559567,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.57039738,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.5812273,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.5920577,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.602888,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.61371851,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.624549,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.63537931,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.64620924,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.65703964,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.66787,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.67870045,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.689531,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.70036125,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.711191,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.72202158,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.732852,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.74368238,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.754513,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.765343,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.77617359,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.78700352,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.797834,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.80866432,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.81949472,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.830325,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.84115553,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.85198545,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.862816,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.87364626,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.88447666,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.895307,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.90613747,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.91696739,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.927798,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.938628,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.9494586,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.960289,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.9711194,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.98194933,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 4.99277973,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.00361,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.01444054,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.025271,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.03610134,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.04693127,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.05776167,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.068592,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.07942247,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.090253,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.10108328,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.111913,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.12274361,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.133574,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.14440441,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.155235,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.166065,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.17689562,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.18772554,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.198556,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.20938635,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.22021675,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.231047,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.24187756,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.25270748,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.263538,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.27436829,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.28519869,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.296029,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.30685949,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.31768942,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.32852,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.33935,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.35018063,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.361011,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.37184143,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.38267136,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.39350176,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.404332,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.41516256,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.425993,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.43682337,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.44765329,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.4584837,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.469314,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.4801445,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.490975,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.50180531,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.512635,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.52346563,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.534296,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.54512644,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.555957,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.56678724,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.57761765,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.58844757,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.599278,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.61010838,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.620939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.631769,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.64259958,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.65342951,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.66426,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.67509031,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.68592072,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.696751,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.70758152,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.71841145,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.729242,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.74007225,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.75090265,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.761733,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.77256346,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.78339338,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.794224,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.805054,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.81588459,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.826715,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.83754539,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.84837532,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.85920572,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.870036,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.88086653,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.891697,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.90252733,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.91335726,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.92418766,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.935018,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.94584846,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.956679,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.96750927,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.97833967,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 5.9891696,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "PurpleCamo",
+      "time": 6.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_PurpleFortified x555 (R120) [101-120]",
+  "ImplementationType": null
+}

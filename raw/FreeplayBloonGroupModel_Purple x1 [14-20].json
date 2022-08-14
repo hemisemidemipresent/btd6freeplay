@@ -1,0 +1,20 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 14,
+      "upperBounds": 20
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Purple",
+      "time": 3.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Purple x1 [14-20]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Purple x1 [14-20]",
+  "ImplementationType": null
+}

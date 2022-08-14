@@ -1,0 +1,293 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 18,
+      "upperBounds": 45
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "BlackRegrow",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 15.384614,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 30.769228,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 46.1538429,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 61.538456,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 76.92307,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 92.3076859,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 107.6923,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 123.076912,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 138.461533,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 153.846146,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 169.230759,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 184.615372,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 199.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 215.3846,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 230.769211,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 246.153824,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 261.538452,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 276.923065,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 292.307678,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 307.6923,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 323.0769,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 338.461517,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 353.84613,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 369.230743,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 384.615356,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 399.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 415.384583,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 430.7692,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 446.1538,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 461.538422,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 476.923035,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 492.307648,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 507.692261,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 523.0769,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 538.4615,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 553.8461,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 569.2307,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 584.615356,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "BlackRegrow",
+      "time": 599.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_BlackRegrow x40 [18-45]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_BlackRegrow x40 [18-45]",
+  "ImplementationType": null
+}

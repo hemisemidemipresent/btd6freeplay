@@ -1,0 +1,97 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 2,
+      "upperBounds": 13
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Blue",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x12 [2-13]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 28.0308533,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x12 [2-13]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 56.0617065,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x12 [2-13]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 84.09256,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x12 [2-13]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 112.123413,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x12 [2-13]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 140.154266,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x12 [2-13]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 168.18512,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x12 [2-13]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 196.215973,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x12 [2-13]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 224.246826,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x12 [2-13]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 252.277679,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x12 [2-13]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 280.308533,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x12 [2-13]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Blue",
+      "time": 308.3394,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Blue x12 [2-13]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Blue x12 [2-13]",
+  "ImplementationType": null
+}

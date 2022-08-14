@@ -1,0 +1,174 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 5,
+      "upperBounds": 23
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Green",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 81.81818,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 163.636353,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 245.454529,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 327.2727,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 409.090881,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 490.909058,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 572.727234,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 654.5454,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 736.3636,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 818.181763,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 899.999939,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 981.8181,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 1063.63623,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 1145.45447,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 1227.27271,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 1309.09082,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 1390.90894,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 1472.72717,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 1554.54541,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 1636.36353,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 1718.18164,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Green",
+      "time": 1799.99988,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Green x23 [5-23]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Green x23 [5-23]",
+  "ImplementationType": null
+}

@@ -1,0 +1,139 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 59,
+      "upperBounds": 99
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Moab",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x18 [59-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 17.6470566,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x18 [59-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 35.2941132,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x18 [59-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 52.94117,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x18 [59-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 70.58823,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x18 [59-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 88.23528,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x18 [59-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 105.882339,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x18 [59-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 123.529396,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x18 [59-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 141.176453,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x18 [59-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 158.823517,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x18 [59-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 176.470566,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x18 [59-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 194.117615,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x18 [59-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 211.764679,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x18 [59-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 229.411743,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x18 [59-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 247.058792,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x18 [59-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 264.705841,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x18 [59-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 282.3529,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x18 [59-99]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Moab",
+      "time": 299.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Moab x18 [59-99]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Moab x18 [59-99]",
+  "ImplementationType": null
+}

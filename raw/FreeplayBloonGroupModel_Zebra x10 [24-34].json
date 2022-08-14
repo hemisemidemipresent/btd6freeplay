@@ -1,0 +1,83 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 24,
+      "upperBounds": 34
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Zebra",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x10 [24-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 6.666666,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x10 [24-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 13.3333321,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x10 [24-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 19.9999981,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x10 [24-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 26.6666641,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x10 [24-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 33.33333,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x10 [24-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 39.9999962,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x10 [24-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 46.6666641,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x10 [24-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 53.33333,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x10 [24-34]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Zebra",
+      "time": 59.9999924,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Zebra x10 [24-34]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Zebra x10 [24-34]",
+  "ImplementationType": null
+}

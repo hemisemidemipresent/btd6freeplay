@@ -1,0 +1,83 @@
+{
+  "score": 0.0,
+  "bounds": [
+    {
+      "lowerBounds": 1,
+      "upperBounds": 10
+    }
+  ],
+  "bloonEmissions": [
+    {
+      "bloon": "Red",
+      "time": 0.0,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x10 [1-10]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 33.9999962,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x10 [1-10]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 67.99999,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x10 [1-10]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 101.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x10 [1-10]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 135.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x10 [1-10]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 169.999985,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x10 [1-10]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 203.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x10 [1-10]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 237.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x10 [1-10]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 271.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x10 [1-10]",
+      "ImplementationType": null
+    },
+    {
+      "bloon": "Red",
+      "time": 305.999969,
+      "emissionIndex": 0,
+      "name": "BloonEmissionModel_BloonGroupModel_Red x10 [1-10]",
+      "ImplementationType": null
+    }
+  ],
+  "name": "FreeplayBloonGroupModel_Red x10 [1-10]",
+  "ImplementationType": null
+}

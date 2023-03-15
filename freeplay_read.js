@@ -22,7 +22,7 @@ function read() {
                 if (bounds[0].upperBounds > 100) {
                     obj.bloon = parseBloons(filename);
                     obj.number = FBGM.bloonEmissions.length;
-
+                    obj.score = FBGM.score;
                     for (i = 0; i < bounds.length; i++) {
                         let bound = bounds[i];
                         let boundset = [bound.lowerBounds, bound.upperBounds];
